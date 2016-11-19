@@ -1,0 +1,2337 @@
+fileFormatVersion: 2
+guid: 0c113ae9b16cf554e960c85ee7e7b463
+timeCreated: 1461522008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anus_back
+    100002: Anus_back_end
+    100004: Anus_front
+    100006: Anus_front_end
+    100008: Anus_left
+    100010: Anus_left_end
+    100012: Anus_push
+    100014: Anus_push_end
+    100016: Anus_right
+    100018: Anus_right_end
+    100020: Armor_Bone1
+    100022: Armor_Bone_Base
+    100024: Armor_Breast_L
+    100026: Armor_Breast_L_end
+    100028: Armor_Breast_R
+    100030: Armor_Breast_R_end
+    100032: Ball.L
+    100034: Ball.L_end
+    100036: Ball.R
+    100038: Ball.R_end
+    100040: Belly
+    100042: Belly_end
+    100044: Bip01 Finger01.R
+    100046: Bip01 Finger02.R
+    100048: Bip01 Finger02.R_end
+    100050: Bip01 Finger11.R
+    100052: Bip01 Finger12.R
+    100054: Bip01 Finger12.R_end
+    100056: Bip01 Finger21.R
+    100058: Bip01 Finger22.R
+    100060: Bip01 Finger22.R_end
+    100062: Bip01 Finger31.R
+    100064: Bip01 Finger32.R
+    100066: Bip01 Finger32.R_end
+    100068: Bip01 Finger41.R
+    100070: Bip01 Finger42.R
+    100072: Bip01 Finger42.R_end
+    100074: Bip01 NonAccum
+    100076: Bip01 NonAccum.001
+    100078: Bip01 NonAccum.002
+    100080: Bip01 NonAccum.003
+    100082: Bip01 NonAccum.004
+    100084: Bip01 NonAccum.005
+    100086: Bip01 NonAccum.006
+    100088: Bip01 NonAccum.007
+    100090: Bip01 NonAccum.007_end
+    100092: Bip01 NonAccum_end
+    100094: Bip01_Calf.L
+    100096: Bip01_Calf.R
+    100098: Bip01_Clavicle.L
+    100100: Bip01_Clavicle.R
+    100102: Bip01_Finger0.L
+    100104: Bip01_Finger0.R
+    100106: Bip01_Finger01.L
+    100108: Bip01_Finger02.L
+    100110: Bip01_Finger02.L_end
+    100112: Bip01_Finger1.L
+    100114: Bip01_Finger1.R
+    100116: Bip01_Finger11.L
+    100118: Bip01_Finger12.L
+    100120: Bip01_Finger12.L_end
+    100122: Bip01_Finger2.L
+    100124: Bip01_Finger2.R
+    100126: Bip01_Finger21.L
+    100128: Bip01_Finger22.L
+    100130: Bip01_Finger22.L_end
+    100132: Bip01_Finger3.L
+    100134: Bip01_Finger3.R
+    100136: Bip01_Finger31.L
+    100138: Bip01_Finger32.L
+    100140: Bip01_Finger32.L_end
+    100142: Bip01_Finger4.L
+    100144: Bip01_Finger4.R
+    100146: Bip01_Finger41.L
+    100148: Bip01_Finger42.L
+    100150: Bip01_Finger42.L_end
+    100152: Bip01_Foot.L
+    100154: Bip01_Foot.R
+    100156: Bip01_Forearm.L
+    100158: Bip01_Forearm.R
+    100160: Bip01_ForearmTwist.L
+    100162: Bip01_ForearmTwist.L_end
+    100164: Bip01_ForearmTwist.R
+    100166: Bip01_ForearmTwist.R_end
+    100168: Bip01_Hand.L
+    100170: Bip01_Hand.R
+    100172: Bip01_Knee.L
+    100174: Bip01_Knee.L_end
+    100176: Bip01_Knee.R
+    100178: Bip01_Knee.R_end
+    100180: Bip01_Neck
+    100182: Bip01_Neck1
+    100184: Bip01_Pelvis
+    100186: Bip01_Spine
+    100188: Bip01_Spine1
+    100190: Bip01_Spine2
+    100192: Bip01_Thigh.L
+    100194: Bip01_Thigh.R
+    100196: Bip01_Toe0.L
+    100198: Bip01_Toe0.R
+    100200: Bip01_UpperArm.L
+    100202: Bip01_UpperArm.R
+    100204: Bip01_UpperArmTwist.L
+    100206: Bip01_UpperArmTwist.L_end
+    100208: Bip01_UpperArmTwist.R
+    100210: Bip01_UpperArmTwist.R_end
+    100212: Bip_Belt
+    100214: Bone
+    100216: Bone.001
+    100218: Bone.001_end
+    100220: Bone.002
+    100222: Bone.002_end
+    100224: Bone.003
+    100226: Bone.003_end
+    100228: Bone.004
+    100230: Bone.004_end
+    100232: Bone.005
+    100234: Bone.005_end
+    100236: Bone.006
+    100238: Bone.006_end
+    100240: Bone.007
+    100242: Bone.007_end
+    100244: Bone.008
+    100246: Bone.008_end
+    100248: Bone_end
+    100250: Breast_L_Base
+    100252: Breast_L_Mid
+    100254: Breast_L_Top
+    100256: Breast_L_Top_end
+    100258: Breast_R_Base
+    100260: Breast_R_Mid
+    100262: Breast_R_Top
+    100264: Breast_R_Top_end
+    100266: Butt_L_Inner
+    100268: Butt_L_Inner_end
+    100270: Butt_L_Outer
+    100272: Butt_L_Outer_end
+    100274: Butt_L_Upper
+    100276: Butt_L_Upper_end
+    100278: Butt_R_Inner
+    100280: Butt_R_Inner_end
+    100282: Butt_R_Outer
+    100284: Butt_R_Outer_end
+    100286: Butt_R_Upper
+    100288: Butt_R_Upper_end
+    100290: ButtL
+    100292: ButtR
+    100294: Classic_Nidalee_Spear
+    100296: Classic_Nidalee_Spear_end
+    100298: Earring_L
+    100300: Earring_L_end
+    100302: Earring_R
+    100304: Earring_R_end
+    100306: Eyeball.L
+    100308: Eyeball.L_end
+    100310: Eyeball.R
+    100312: Eyeball.R_end
+    100314: Foot_Finger.001.L
+    100316: Foot_Finger.001.R
+    100318: Foot_Finger.002.L
+    100320: Foot_Finger.002.R
+    100322: Foot_Finger.003.L
+    100324: Foot_Finger.003.L_end
+    100326: Foot_Finger.003.R
+    100328: Foot_Finger.003.R_end
+    100330: Foot_Finger.004.L
+    100332: Foot_Finger.004.R
+    100334: Foot_Finger.005.L
+    100336: Foot_Finger.005.R
+    100338: Foot_Finger.006.L
+    100340: Foot_Finger.006.L_end
+    100342: Foot_Finger.006.R
+    100344: Foot_Finger.006.R_end
+    100346: Foot_Finger.007.L
+    100348: Foot_Finger.007.R
+    100350: Foot_Finger.008.L
+    100352: Foot_Finger.008.R
+    100354: Foot_Finger.009.L
+    100356: Foot_Finger.009.L_end
+    100358: Foot_Finger.009.R
+    100360: Foot_Finger.009.R_end
+    100362: Foot_Finger.010.L
+    100364: Foot_Finger.010.R
+    100366: Foot_Finger.011.L
+    100368: Foot_Finger.011.R
+    100370: Foot_Finger.L
+    100372: Foot_Finger.L_end
+    100374: Foot_Finger.R
+    100376: Foot_Finger.R_end
+    100378: Hair_back.L
+    100380: Hair_back.L_end
+    100382: Hair_back.M
+    100384: Hair_back.M_end
+    100386: Hair_back.R
+    100388: Hair_back.R_end
+    100390: Hair_mesh.L
+    100392: Hair_mesh.L.001
+    100394: Hair_mesh.L.001_end
+    100396: Hair_mesh.L.002
+    100398: Hair_mesh.L.002_end
+    100400: Hair_mesh.L_end
+    100402: Hair_mesh.R
+    100404: Hair_mesh.R.001
+    100406: Hair_mesh.R.001_end
+    100408: Hair_mesh.R_end
+    100410: head cheek left lower
+    100412: head cheek left lower_end
+    100414: head cheek left middle
+    100416: head cheek left middle_end
+    100418: head cheek left upper
+    100420: head cheek left upper_end
+    100422: head cheek right lower
+    100424: head cheek right lower_end
+    100426: head cheek right middle
+    100428: head cheek right middle_end
+    100430: head cheek right upper
+    100432: head cheek right upper_end
+    100434: head eyebrow left 1
+    100436: head eyebrow left 1_end
+    100438: head eyebrow left 2
+    100440: head eyebrow left 2_end
+    100442: head eyebrow right 1
+    100444: head eyebrow right 1_end
+    100446: head eyebrow right 2
+    100448: head eyebrow right 2_end
+    100450: head eyelid left lower
+    100452: head eyelid left lower_end
+    100454: head eyelid left upper
+    100456: head eyelid left upper_end
+    100458: head eyelid right lower
+    100460: head eyelid right lower_end
+    100462: head eyelid right upper
+    100464: head eyelid right upper_end
+    100466: head jaw
+    100468: head lip lower left
+    100470: head lip lower left_end
+    100472: head lip lower middle
+    100474: head lip lower middle_end
+    100476: head lip lower right
+    100478: head lip lower right_end
+    100480: head lip upper left
+    100482: head lip upper left_end
+    100484: head lip upper middle
+    100486: head lip upper middle_end
+    100488: head lip upper right
+    100490: head lip upper right_end
+    100492: head mouth corner left
+    100494: head mouth corner left_end
+    100496: head mouth corner right
+    100498: head mouth corner right_end
+    100500: head nostril left
+    100502: head nostril left_end
+    100504: head nostril right
+    100506: head nostril right_end
+    100508: Kilt
+    100510: Kilt.001
+    100512: Kilt.002
+    100514: Kilt.003
+    100516: Kilt.004
+    100518: Kilt.004_end
+    100520: Kilt.L
+    100522: Kilt.L.001
+    100524: Kilt.L.002
+    100526: Kilt.L.002_end
+    100528: Kilt.R
+    100530: Kilt.R.001
+    100532: Kilt.R.002
+    100534: Kilt.R.003
+    100536: Kilt.R.004
+    100538: Kilt.R.004_end
+    100540: Kilt_Back
+    100542: Kilt_Back.001
+    100544: Kilt_Back.002
+    100546: Kilt_Back.003
+    100548: Kilt_Back.004
+    100550: Kilt_Back.004_end
+    100552: Necklace
+    100554: //RootNode
+    100556: nidalee_body
+    100558: nidalee_body.qc_skeleton
+    100560: nidalee_body_classic_nidalee_armapp
+    100562: nidalee_body_classic_nidalee_armor_kilt
+    100564: nidalee_body_classic_nidalee_armor_top
+    100566: nidalee_body_classic_nidalee_belt
+    100568: nidalee_body_classic_nidalee_boots
+    100570: nidalee_body_classic_nidalee_bracers
+    100572: nidalee_body_classic_nidalee_earings
+    100574: nidalee_body_classic_nidalee_necklace
+    100576: nidalee_body_classic_nidalee_spear
+    100578: nidalee_body_nidalee_hair
+    100580: nidalee_body_nidalee_penis
+    100582: nidalee_body_nidalee_pussy
+    100584: nidalee_body_reference
+    100586: Pony_tail
+    100588: Pony_tail.001
+    100590: Pony_tail.002
+    100592: Pony_tail.003
+    100594: Pony_tail.004
+    100596: Pony_tail.005
+    100598: Pony_tail.006
+    100600: Pony_tail.007
+    100602: Pony_tail.008
+    100604: Pony_tail.008_end
+    100606: Pony_tail_base
+    100608: Pussy_back
+    100610: Pussy_back_end
+    100612: Pussy_front
+    100614: Pussy_front_end
+    100616: Pussy_left
+    100618: Pussy_left_end
+    100620: Pussy_right
+    100622: Pussy_right_end
+    100624: Toe.001.L
+    100626: Toe.001.R
+    100628: Toe.002.L
+    100630: Toe.002.L_end
+    100632: Toe.002.R
+    100634: Toe.002.R_end
+    100636: Toe.L
+    100638: Toe.R
+    100640: Tooth_Belt
+    100642: Tooth_Belt.001
+    100644: Tooth_Belt.001_end
+    100646: Tooth_Belt.002
+    100648: Tooth_Belt.002_end
+    100650: Tooth_Belt.003
+    100652: Tooth_Belt.003_end
+    100654: Tooth_Belt.004
+    100656: Tooth_Belt.004_end
+    100658: Tooth_Belt.005
+    100660: Tooth_Belt.005_end
+    100662: Tooth_Belt.006
+    100664: Tooth_Belt.006_end
+    100666: Tooth_Belt.007
+    100668: Tooth_Belt.007_end
+    100670: Tooth_Belt_end
+    100672: ValveBiped.Bip01_Head
+    100674: VTA vertices
+    100676: Weapon
+    400000: Anus_back
+    400002: Anus_back_end
+    400004: Anus_front
+    400006: Anus_front_end
+    400008: Anus_left
+    400010: Anus_left_end
+    400012: Anus_push
+    400014: Anus_push_end
+    400016: Anus_right
+    400018: Anus_right_end
+    400020: Armor_Bone1
+    400022: Armor_Bone_Base
+    400024: Armor_Breast_L
+    400026: Armor_Breast_L_end
+    400028: Armor_Breast_R
+    400030: Armor_Breast_R_end
+    400032: Ball.L
+    400034: Ball.L_end
+    400036: Ball.R
+    400038: Ball.R_end
+    400040: Belly
+    400042: Belly_end
+    400044: Bip01 Finger01.R
+    400046: Bip01 Finger02.R
+    400048: Bip01 Finger02.R_end
+    400050: Bip01 Finger11.R
+    400052: Bip01 Finger12.R
+    400054: Bip01 Finger12.R_end
+    400056: Bip01 Finger21.R
+    400058: Bip01 Finger22.R
+    400060: Bip01 Finger22.R_end
+    400062: Bip01 Finger31.R
+    400064: Bip01 Finger32.R
+    400066: Bip01 Finger32.R_end
+    400068: Bip01 Finger41.R
+    400070: Bip01 Finger42.R
+    400072: Bip01 Finger42.R_end
+    400074: Bip01 NonAccum
+    400076: Bip01 NonAccum.001
+    400078: Bip01 NonAccum.002
+    400080: Bip01 NonAccum.003
+    400082: Bip01 NonAccum.004
+    400084: Bip01 NonAccum.005
+    400086: Bip01 NonAccum.006
+    400088: Bip01 NonAccum.007
+    400090: Bip01 NonAccum.007_end
+    400092: Bip01 NonAccum_end
+    400094: Bip01_Calf.L
+    400096: Bip01_Calf.R
+    400098: Bip01_Clavicle.L
+    400100: Bip01_Clavicle.R
+    400102: Bip01_Finger0.L
+    400104: Bip01_Finger0.R
+    400106: Bip01_Finger01.L
+    400108: Bip01_Finger02.L
+    400110: Bip01_Finger02.L_end
+    400112: Bip01_Finger1.L
+    400114: Bip01_Finger1.R
+    400116: Bip01_Finger11.L
+    400118: Bip01_Finger12.L
+    400120: Bip01_Finger12.L_end
+    400122: Bip01_Finger2.L
+    400124: Bip01_Finger2.R
+    400126: Bip01_Finger21.L
+    400128: Bip01_Finger22.L
+    400130: Bip01_Finger22.L_end
+    400132: Bip01_Finger3.L
+    400134: Bip01_Finger3.R
+    400136: Bip01_Finger31.L
+    400138: Bip01_Finger32.L
+    400140: Bip01_Finger32.L_end
+    400142: Bip01_Finger4.L
+    400144: Bip01_Finger4.R
+    400146: Bip01_Finger41.L
+    400148: Bip01_Finger42.L
+    400150: Bip01_Finger42.L_end
+    400152: Bip01_Foot.L
+    400154: Bip01_Foot.R
+    400156: Bip01_Forearm.L
+    400158: Bip01_Forearm.R
+    400160: Bip01_ForearmTwist.L
+    400162: Bip01_ForearmTwist.L_end
+    400164: Bip01_ForearmTwist.R
+    400166: Bip01_ForearmTwist.R_end
+    400168: Bip01_Hand.L
+    400170: Bip01_Hand.R
+    400172: Bip01_Knee.L
+    400174: Bip01_Knee.L_end
+    400176: Bip01_Knee.R
+    400178: Bip01_Knee.R_end
+    400180: Bip01_Neck
+    400182: Bip01_Neck1
+    400184: Bip01_Pelvis
+    400186: Bip01_Spine
+    400188: Bip01_Spine1
+    400190: Bip01_Spine2
+    400192: Bip01_Thigh.L
+    400194: Bip01_Thigh.R
+    400196: Bip01_Toe0.L
+    400198: Bip01_Toe0.R
+    400200: Bip01_UpperArm.L
+    400202: Bip01_UpperArm.R
+    400204: Bip01_UpperArmTwist.L
+    400206: Bip01_UpperArmTwist.L_end
+    400208: Bip01_UpperArmTwist.R
+    400210: Bip01_UpperArmTwist.R_end
+    400212: Bip_Belt
+    400214: Bone
+    400216: Bone.001
+    400218: Bone.001_end
+    400220: Bone.002
+    400222: Bone.002_end
+    400224: Bone.003
+    400226: Bone.003_end
+    400228: Bone.004
+    400230: Bone.004_end
+    400232: Bone.005
+    400234: Bone.005_end
+    400236: Bone.006
+    400238: Bone.006_end
+    400240: Bone.007
+    400242: Bone.007_end
+    400244: Bone.008
+    400246: Bone.008_end
+    400248: Bone_end
+    400250: Breast_L_Base
+    400252: Breast_L_Mid
+    400254: Breast_L_Top
+    400256: Breast_L_Top_end
+    400258: Breast_R_Base
+    400260: Breast_R_Mid
+    400262: Breast_R_Top
+    400264: Breast_R_Top_end
+    400266: Butt_L_Inner
+    400268: Butt_L_Inner_end
+    400270: Butt_L_Outer
+    400272: Butt_L_Outer_end
+    400274: Butt_L_Upper
+    400276: Butt_L_Upper_end
+    400278: Butt_R_Inner
+    400280: Butt_R_Inner_end
+    400282: Butt_R_Outer
+    400284: Butt_R_Outer_end
+    400286: Butt_R_Upper
+    400288: Butt_R_Upper_end
+    400290: ButtL
+    400292: ButtR
+    400294: Classic_Nidalee_Spear
+    400296: Classic_Nidalee_Spear_end
+    400298: Earring_L
+    400300: Earring_L_end
+    400302: Earring_R
+    400304: Earring_R_end
+    400306: Eyeball.L
+    400308: Eyeball.L_end
+    400310: Eyeball.R
+    400312: Eyeball.R_end
+    400314: Foot_Finger.001.L
+    400316: Foot_Finger.001.R
+    400318: Foot_Finger.002.L
+    400320: Foot_Finger.002.R
+    400322: Foot_Finger.003.L
+    400324: Foot_Finger.003.L_end
+    400326: Foot_Finger.003.R
+    400328: Foot_Finger.003.R_end
+    400330: Foot_Finger.004.L
+    400332: Foot_Finger.004.R
+    400334: Foot_Finger.005.L
+    400336: Foot_Finger.005.R
+    400338: Foot_Finger.006.L
+    400340: Foot_Finger.006.L_end
+    400342: Foot_Finger.006.R
+    400344: Foot_Finger.006.R_end
+    400346: Foot_Finger.007.L
+    400348: Foot_Finger.007.R
+    400350: Foot_Finger.008.L
+    400352: Foot_Finger.008.R
+    400354: Foot_Finger.009.L
+    400356: Foot_Finger.009.L_end
+    400358: Foot_Finger.009.R
+    400360: Foot_Finger.009.R_end
+    400362: Foot_Finger.010.L
+    400364: Foot_Finger.010.R
+    400366: Foot_Finger.011.L
+    400368: Foot_Finger.011.R
+    400370: Foot_Finger.L
+    400372: Foot_Finger.L_end
+    400374: Foot_Finger.R
+    400376: Foot_Finger.R_end
+    400378: Hair_back.L
+    400380: Hair_back.L_end
+    400382: Hair_back.M
+    400384: Hair_back.M_end
+    400386: Hair_back.R
+    400388: Hair_back.R_end
+    400390: Hair_mesh.L
+    400392: Hair_mesh.L.001
+    400394: Hair_mesh.L.001_end
+    400396: Hair_mesh.L.002
+    400398: Hair_mesh.L.002_end
+    400400: Hair_mesh.L_end
+    400402: Hair_mesh.R
+    400404: Hair_mesh.R.001
+    400406: Hair_mesh.R.001_end
+    400408: Hair_mesh.R_end
+    400410: head cheek left lower
+    400412: head cheek left lower_end
+    400414: head cheek left middle
+    400416: head cheek left middle_end
+    400418: head cheek left upper
+    400420: head cheek left upper_end
+    400422: head cheek right lower
+    400424: head cheek right lower_end
+    400426: head cheek right middle
+    400428: head cheek right middle_end
+    400430: head cheek right upper
+    400432: head cheek right upper_end
+    400434: head eyebrow left 1
+    400436: head eyebrow left 1_end
+    400438: head eyebrow left 2
+    400440: head eyebrow left 2_end
+    400442: head eyebrow right 1
+    400444: head eyebrow right 1_end
+    400446: head eyebrow right 2
+    400448: head eyebrow right 2_end
+    400450: head eyelid left lower
+    400452: head eyelid left lower_end
+    400454: head eyelid left upper
+    400456: head eyelid left upper_end
+    400458: head eyelid right lower
+    400460: head eyelid right lower_end
+    400462: head eyelid right upper
+    400464: head eyelid right upper_end
+    400466: head jaw
+    400468: head lip lower left
+    400470: head lip lower left_end
+    400472: head lip lower middle
+    400474: head lip lower middle_end
+    400476: head lip lower right
+    400478: head lip lower right_end
+    400480: head lip upper left
+    400482: head lip upper left_end
+    400484: head lip upper middle
+    400486: head lip upper middle_end
+    400488: head lip upper right
+    400490: head lip upper right_end
+    400492: head mouth corner left
+    400494: head mouth corner left_end
+    400496: head mouth corner right
+    400498: head mouth corner right_end
+    400500: head nostril left
+    400502: head nostril left_end
+    400504: head nostril right
+    400506: head nostril right_end
+    400508: Kilt
+    400510: Kilt.001
+    400512: Kilt.002
+    400514: Kilt.003
+    400516: Kilt.004
+    400518: Kilt.004_end
+    400520: Kilt.L
+    400522: Kilt.L.001
+    400524: Kilt.L.002
+    400526: Kilt.L.002_end
+    400528: Kilt.R
+    400530: Kilt.R.001
+    400532: Kilt.R.002
+    400534: Kilt.R.003
+    400536: Kilt.R.004
+    400538: Kilt.R.004_end
+    400540: Kilt_Back
+    400542: Kilt_Back.001
+    400544: Kilt_Back.002
+    400546: Kilt_Back.003
+    400548: Kilt_Back.004
+    400550: Kilt_Back.004_end
+    400552: Necklace
+    400554: //RootNode
+    400556: nidalee_body
+    400558: nidalee_body.qc_skeleton
+    400560: nidalee_body_classic_nidalee_armapp
+    400562: nidalee_body_classic_nidalee_armor_kilt
+    400564: nidalee_body_classic_nidalee_armor_top
+    400566: nidalee_body_classic_nidalee_belt
+    400568: nidalee_body_classic_nidalee_boots
+    400570: nidalee_body_classic_nidalee_bracers
+    400572: nidalee_body_classic_nidalee_earings
+    400574: nidalee_body_classic_nidalee_necklace
+    400576: nidalee_body_classic_nidalee_spear
+    400578: nidalee_body_nidalee_hair
+    400580: nidalee_body_nidalee_penis
+    400582: nidalee_body_nidalee_pussy
+    400584: nidalee_body_reference
+    400586: Pony_tail
+    400588: Pony_tail.001
+    400590: Pony_tail.002
+    400592: Pony_tail.003
+    400594: Pony_tail.004
+    400596: Pony_tail.005
+    400598: Pony_tail.006
+    400600: Pony_tail.007
+    400602: Pony_tail.008
+    400604: Pony_tail.008_end
+    400606: Pony_tail_base
+    400608: Pussy_back
+    400610: Pussy_back_end
+    400612: Pussy_front
+    400614: Pussy_front_end
+    400616: Pussy_left
+    400618: Pussy_left_end
+    400620: Pussy_right
+    400622: Pussy_right_end
+    400624: Toe.001.L
+    400626: Toe.001.R
+    400628: Toe.002.L
+    400630: Toe.002.L_end
+    400632: Toe.002.R
+    400634: Toe.002.R_end
+    400636: Toe.L
+    400638: Toe.R
+    400640: Tooth_Belt
+    400642: Tooth_Belt.001
+    400644: Tooth_Belt.001_end
+    400646: Tooth_Belt.002
+    400648: Tooth_Belt.002_end
+    400650: Tooth_Belt.003
+    400652: Tooth_Belt.003_end
+    400654: Tooth_Belt.004
+    400656: Tooth_Belt.004_end
+    400658: Tooth_Belt.005
+    400660: Tooth_Belt.005_end
+    400662: Tooth_Belt.006
+    400664: Tooth_Belt.006_end
+    400666: Tooth_Belt.007
+    400668: Tooth_Belt.007_end
+    400670: Tooth_Belt_end
+    400672: ValveBiped.Bip01_Head
+    400674: VTA vertices
+    400676: Weapon
+    2300000: VTA vertices
+    3300000: VTA vertices
+    4300000: VTA vertices
+    4300002: nidalee_body_classic_nidalee_armapp
+    4300004: nidalee_body_classic_nidalee_armor_kilt
+    4300006: nidalee_body_classic_nidalee_armor_top
+    4300008: nidalee_body_classic_nidalee_belt
+    4300010: nidalee_body_classic_nidalee_boots
+    4300012: nidalee_body_classic_nidalee_bracers
+    4300014: nidalee_body_classic_nidalee_earings
+    4300016: nidalee_body_classic_nidalee_necklace
+    4300018: nidalee_body_classic_nidalee_spear
+    4300020: nidalee_body_nidalee_penis
+    4300022: nidalee_body_nidalee_pussy
+    4300024: nidalee_body_nidalee_hair
+    4300026: nidalee_body
+    4300028: nidalee_body_reference
+    7400000: nidalee_body.qc_skeleton-idle
+    7400002: nidalee_body.qc_skeleton-nidalee-pose1
+    9500000: //RootNode
+    13700000: nidalee_body
+    13700002: nidalee_body_classic_nidalee_armapp
+    13700004: nidalee_body_classic_nidalee_armor_kilt
+    13700006: nidalee_body_classic_nidalee_armor_top
+    13700008: nidalee_body_classic_nidalee_belt
+    13700010: nidalee_body_classic_nidalee_boots
+    13700012: nidalee_body_classic_nidalee_bracers
+    13700014: nidalee_body_classic_nidalee_earings
+    13700016: nidalee_body_classic_nidalee_necklace
+    13700018: nidalee_body_classic_nidalee_spear
+    13700020: nidalee_body_nidalee_hair
+    13700022: nidalee_body_nidalee_penis
+    13700024: nidalee_body_nidalee_pussy
+    13700026: nidalee_body_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: nidalee_body.qc_skeleton-idle
+      takeName: nidalee_body.qc_skeleton|idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nidalee_body
+        weight: 1
+      - path: nidalee_body.qc_skeleton
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_back/Anus_back_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_front
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_front/Anus_front_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_left/Anus_left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_push
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_push/Anus_push_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_right/Anus_right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum/Bip01 NonAccum_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.L/Ball.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.R/Ball.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006/Bip01 NonAccum.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006/Bip01 NonAccum.007/Bip01 NonAccum.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Belly
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Belly/Belly_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_L/Armor_Breast_L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_R/Armor_Breast_R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_ForearmTwist.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_ForearmTwist.L/Bip01_ForearmTwist.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L/Bip01_Finger02.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L/Bip01_Finger02.L/Bip01_Finger02.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L/Bip01_Finger12.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L/Bip01_Finger12.L/Bip01_Finger12.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L/Bip01_Finger22.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L/Bip01_Finger22.L/Bip01_Finger22.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L/Bip01_Finger32.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L/Bip01_Finger32.L/Bip01_Finger32.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L/Bip01_Finger42.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L/Bip01_Finger42.L/Bip01_Finger42.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_UpperArmTwist.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_UpperArmTwist.L/Bip01_UpperArmTwist.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_ForearmTwist.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_ForearmTwist.R/Bip01_ForearmTwist.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R/Bip01 Finger02.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R/Bip01 Finger02.R/Bip01 Finger02.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R/Bip01 Finger12.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R/Bip01 Finger12.R/Bip01 Finger12.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R/Bip01 Finger22.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R/Bip01 Finger22.R/Bip01 Finger22.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R/Bip01 Finger32.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R/Bip01 Finger32.R/Bip01 Finger32.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R/Bip01 Finger42.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R/Bip01 Finger42.R/Bip01 Finger42.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_UpperArmTwist.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_UpperArmTwist.R/Bip01_UpperArmTwist.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone/Bone_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.001/Bone.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.002/Bone.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.003/Bone.003_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.004/Bone.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.005/Bone.005_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.006/Bone.006_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.007/Bone.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.008
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.008/Bone.008_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_L/Earring_L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_R/Earring_R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.L/Eyeball.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.R/Eyeball.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.L/Hair_back.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.M
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.M/Hair_back.M_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.R/Hair_back.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L/Hair_mesh.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.001/Hair_mesh.L.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.002/Hair_mesh.L.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R/Hair_mesh.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R.001/Hair_mesh.R.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left lower/head cheek left lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left middle/head cheek left middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left upper/head cheek left upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right lower/head cheek right lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right middle/head cheek right middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right upper/head cheek right upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 1/head eyebrow left 1_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 2/head eyebrow left 2_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 1/head eyebrow right 1_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 2/head eyebrow right 2_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left lower/head eyelid left lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left upper/head eyelid left upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right lower/head eyelid right lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right upper/head eyelid right upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower left/head lip lower left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower middle/head lip lower middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower right/head lip lower right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper left/head lip upper left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper middle/head lip upper middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper right/head lip upper right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner left/head mouth corner left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner right/head mouth corner right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril left/head nostril left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril right/head nostril right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007/Pony_tail.008
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007/Pony_tail.008/Pony_tail.008_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid/Breast_L_Top
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid/Breast_L_Top/Breast_L_Top_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid/Breast_R_Top
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid/Breast_R_Top/Breast_R_Top_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L/Foot_Finger.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L/Foot_Finger.L/Foot_Finger.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L/Foot_Finger.003.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L/Foot_Finger.003.L/Foot_Finger.003.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L/Foot_Finger.006.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L/Foot_Finger.006.L/Foot_Finger.006.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L/Foot_Finger.009.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L/Foot_Finger.009.L/Foot_Finger.009.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L/Toe.002.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L/Toe.002.L/Toe.002.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Knee.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Knee.L/Bip01_Knee.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R/Foot_Finger.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R/Foot_Finger.R/Foot_Finger.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R/Foot_Finger.003.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R/Foot_Finger.003.R/Foot_Finger.003.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R/Foot_Finger.006.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R/Foot_Finger.006.R/Foot_Finger.006.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R/Foot_Finger.009.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R/Foot_Finger.009.R/Foot_Finger.009.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R/Toe.002.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R/Toe.002.R/Toe.002.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Knee.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Knee.R/Bip01_Knee.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003/Kilt.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003/Kilt.004/Kilt.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001/Kilt.L.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001/Kilt.L.002/Kilt.L.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003/Kilt.R.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003/Kilt.R.004/Kilt.R.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003/Kilt_Back.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003/Kilt_Back.004/Kilt_Back.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt/Tooth_Belt_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.001/Tooth_Belt.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.002/Tooth_Belt.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.003/Tooth_Belt.003_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.004/Tooth_Belt.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.005/Tooth_Belt.005_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.006/Tooth_Belt.006_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.007/Tooth_Belt.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Inner
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Inner/Butt_L_Inner_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Outer
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Outer/Butt_L_Outer_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Upper/Butt_L_Upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Inner
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Inner/Butt_R_Inner_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Outer
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Outer/Butt_R_Outer_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Upper/Butt_R_Upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_back/Pussy_back_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_front
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_front/Pussy_front_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_left/Pussy_left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_right/Pussy_right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon/Classic_Nidalee_Spear
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon/Classic_Nidalee_Spear/Classic_Nidalee_Spear_end
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armapp
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armor_kilt
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armor_top
+        weight: 1
+      - path: nidalee_body_classic_nidalee_belt
+        weight: 1
+      - path: nidalee_body_classic_nidalee_boots
+        weight: 1
+      - path: nidalee_body_classic_nidalee_bracers
+        weight: 1
+      - path: nidalee_body_classic_nidalee_earings
+        weight: 1
+      - path: nidalee_body_classic_nidalee_necklace
+        weight: 1
+      - path: nidalee_body_classic_nidalee_spear
+        weight: 1
+      - path: nidalee_body_nidalee_hair
+        weight: 1
+      - path: nidalee_body_nidalee_penis
+        weight: 1
+      - path: nidalee_body_nidalee_pussy
+        weight: 1
+      - path: nidalee_body_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nidalee_body.qc_skeleton-nidalee-pose1
+      takeName: nidalee_body.qc_skeleton|nidalee-pose1
+      firstFrame: 0
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nidalee_body
+        weight: 1
+      - path: nidalee_body.qc_skeleton
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_back/Anus_back_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_front
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_front/Anus_front_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_left/Anus_left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_push
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_push/Anus_push_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Anus_right/Anus_right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum/Bip01 NonAccum_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.L/Ball.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.002/Bip01
+          NonAccum.003/Ball.R/Ball.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006/Bip01 NonAccum.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01 NonAccum.001/Bip01 NonAccum.004/Bip01
+          NonAccum.005/Bip01 NonAccum.006/Bip01 NonAccum.007/Bip01 NonAccum.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Belly
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Belly/Belly_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_L/Armor_Breast_L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Armor_Bone_Base/Armor_Bone1/Armor_Breast_R/Armor_Breast_R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_ForearmTwist.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_ForearmTwist.L/Bip01_ForearmTwist.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L/Bip01_Finger02.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger0.L/Bip01_Finger01.L/Bip01_Finger02.L/Bip01_Finger02.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L/Bip01_Finger12.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger1.L/Bip01_Finger11.L/Bip01_Finger12.L/Bip01_Finger12.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L/Bip01_Finger22.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger2.L/Bip01_Finger21.L/Bip01_Finger22.L/Bip01_Finger22.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L/Bip01_Finger32.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger3.L/Bip01_Finger31.L/Bip01_Finger32.L/Bip01_Finger32.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L/Bip01_Finger42.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_Forearm.L/Bip01_Hand.L/Bip01_Finger4.L/Bip01_Finger41.L/Bip01_Finger42.L/Bip01_Finger42.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_UpperArmTwist.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.L/Bip01_UpperArm.L/Bip01_UpperArmTwist.L/Bip01_UpperArmTwist.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_ForearmTwist.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_ForearmTwist.R/Bip01_ForearmTwist.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R/Bip01 Finger02.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger0.R/Bip01
+          Finger01.R/Bip01 Finger02.R/Bip01 Finger02.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R/Bip01 Finger12.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger1.R/Bip01
+          Finger11.R/Bip01 Finger12.R/Bip01 Finger12.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R/Bip01 Finger22.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger2.R/Bip01
+          Finger21.R/Bip01 Finger22.R/Bip01 Finger22.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R/Bip01 Finger32.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger3.R/Bip01
+          Finger31.R/Bip01 Finger32.R/Bip01 Finger32.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R/Bip01 Finger42.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_Forearm.R/Bip01_Hand.R/Bip01_Finger4.R/Bip01
+          Finger41.R/Bip01 Finger42.R/Bip01 Finger42.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_UpperArmTwist.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Clavicle.R/Bip01_UpperArm.R/Bip01_UpperArmTwist.R/Bip01_UpperArmTwist.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone/Bone_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.001/Bone.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.002/Bone.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.003/Bone.003_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.004/Bone.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.005/Bone.005_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.006/Bone.006_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.007/Bone.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.008
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/Necklace/Bone.008/Bone.008_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_L/Earring_L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Earring_R/Earring_R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.L/Eyeball.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Eyeball.R/Eyeball.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.L/Hair_back.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.M
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.M/Hair_back.M_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_back.R/Hair_back.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L/Hair_mesh.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.001/Hair_mesh.L.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.L.002/Hair_mesh.L.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R/Hair_mesh.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Hair_mesh.R.001/Hair_mesh.R.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left lower/head cheek left lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left middle/head cheek left middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek left upper/head cheek left upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right lower/head cheek right lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right middle/head cheek right middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          cheek right upper/head cheek right upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 1/head eyebrow left 1_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow left 2/head eyebrow left 2_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 1
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 1/head eyebrow right 1_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 2
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyebrow right 2/head eyebrow right 2_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left lower/head eyelid left lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid left upper/head eyelid left upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right lower
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right lower/head eyelid right lower_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          eyelid right upper/head eyelid right upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower left/head lip lower left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower middle/head lip lower middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          jaw/head lip lower right/head lip lower right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper left/head lip upper left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper middle
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper middle/head lip upper middle_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          lip upper right/head lip upper right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner left/head mouth corner left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          mouth corner right/head mouth corner right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril left/head nostril left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/head
+          nostril right/head nostril right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007/Pony_tail.008
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Bip01_Neck/Bip01_Neck1/ValveBiped.Bip01_Head/Pony_tail_base/Pony_tail/Pony_tail.001/Pony_tail.002/Pony_tail.003/Pony_tail.004/Pony_tail.005/Pony_tail.006/Pony_tail.007/Pony_tail.008/Pony_tail.008_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid/Breast_L_Top
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_L_Base/Breast_L_Mid/Breast_L_Top/Breast_L_Top_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid/Breast_R_Top
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Spine/Bip01_Spine1/Bip01_Spine2/Breast_R_Base/Breast_R_Mid/Breast_R_Top/Breast_R_Top_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L/Foot_Finger.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.002.L/Foot_Finger.001.L/Foot_Finger.L/Foot_Finger.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L/Foot_Finger.003.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.005.L/Foot_Finger.004.L/Foot_Finger.003.L/Foot_Finger.003.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L/Foot_Finger.006.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.008.L/Foot_Finger.007.L/Foot_Finger.006.L/Foot_Finger.006.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L/Foot_Finger.009.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Foot_Finger.011.L/Foot_Finger.010.L/Foot_Finger.009.L/Foot_Finger.009.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L/Toe.002.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Foot.L/Bip01_Toe0.L/Toe.L/Toe.001.L/Toe.002.L/Toe.002.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Knee.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.L/Bip01_Calf.L/Bip01_Knee.L/Bip01_Knee.L_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R/Foot_Finger.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.002.R/Foot_Finger.001.R/Foot_Finger.R/Foot_Finger.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R/Foot_Finger.003.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.005.R/Foot_Finger.004.R/Foot_Finger.003.R/Foot_Finger.003.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R/Foot_Finger.006.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.008.R/Foot_Finger.007.R/Foot_Finger.006.R/Foot_Finger.006.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R/Foot_Finger.009.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Foot_Finger.011.R/Foot_Finger.010.R/Foot_Finger.009.R/Foot_Finger.009.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R/Toe.002.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Foot.R/Bip01_Toe0.R/Toe.R/Toe.001.R/Toe.002.R/Toe.002.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Knee.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip01_Thigh.R/Bip01_Calf.R/Bip01_Knee.R/Bip01_Knee.R_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003/Kilt.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt/Kilt.001/Kilt.002/Kilt.003/Kilt.004/Kilt.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001/Kilt.L.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.L/Kilt.L.001/Kilt.L.002/Kilt.L.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003/Kilt.R.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt.R/Kilt.R.001/Kilt.R.002/Kilt.R.003/Kilt.R.004/Kilt.R.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003/Kilt_Back.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Kilt_Back/Kilt_Back.001/Kilt_Back.002/Kilt_Back.003/Kilt_Back.004/Kilt_Back.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt/Tooth_Belt_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.001
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.001/Tooth_Belt.001_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.002
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.002/Tooth_Belt.002_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.003
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.003/Tooth_Belt.003_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.004
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.004/Tooth_Belt.004_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.005
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.005/Tooth_Belt.005_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.006
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.006/Tooth_Belt.006_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.007
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Bip_Belt/Tooth_Belt.007/Tooth_Belt.007_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Inner
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Inner/Butt_L_Inner_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Outer
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Outer/Butt_L_Outer_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtL/Butt_L_Upper/Butt_L_Upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Inner
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Inner/Butt_R_Inner_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Outer
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Outer/Butt_R_Outer_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Upper
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/ButtR/Butt_R_Upper/Butt_R_Upper_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_back
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_back/Pussy_back_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_front
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_front/Pussy_front_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_left
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_left/Pussy_left_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_right
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Bip01_Pelvis/Pussy_right/Pussy_right_end
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon/Classic_Nidalee_Spear
+        weight: 1
+      - path: nidalee_body.qc_skeleton/Weapon/Classic_Nidalee_Spear/Classic_Nidalee_Spear_end
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armapp
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armor_kilt
+        weight: 1
+      - path: nidalee_body_classic_nidalee_armor_top
+        weight: 1
+      - path: nidalee_body_classic_nidalee_belt
+        weight: 1
+      - path: nidalee_body_classic_nidalee_boots
+        weight: 1
+      - path: nidalee_body_classic_nidalee_bracers
+        weight: 1
+      - path: nidalee_body_classic_nidalee_earings
+        weight: 1
+      - path: nidalee_body_classic_nidalee_necklace
+        weight: 1
+      - path: nidalee_body_classic_nidalee_spear
+        weight: 1
+      - path: nidalee_body_nidalee_hair
+        weight: 1
+      - path: nidalee_body_nidalee_penis
+        weight: 1
+      - path: nidalee_body_nidalee_pussy
+        weight: 1
+      - path: nidalee_body_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 07a601aceba868644af5633f60d405c7
+timeCreated: 1461139941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chain_1
+    100002: chain_2
+    100004: chain_3
+    100006: chain_3_end
+    100008: dva_pistol.qc_skeleton
+    100010: dva_pistol_reference
+    100012: //RootNode
+    100014: root
+    100016: slide
+    100018: slide_end
+    100020: trigger
+    100022: trigger_end
+    400000: chain_1
+    400002: chain_2
+    400004: chain_3
+    400006: chain_3_end
+    400008: dva_pistol.qc_skeleton
+    400010: dva_pistol_reference
+    400012: //RootNode
+    400014: root
+    400016: slide
+    400018: slide_end
+    400020: trigger
+    400022: trigger_end
+    4300000: dva_pistol_reference
+    7400000: dva_pistol.qc_skeleton|idle
+    7400002: dva_pistol.qc_skeleton|dvapistolpose1
+    9500000: //RootNode
+    13700000: dva_pistol_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

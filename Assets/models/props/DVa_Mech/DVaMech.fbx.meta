@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: e444ec91be804b14ba7f7dbed377c80d
+timeCreated: 1461083501
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bip_foot_L
+    100002: bip_foot_R
+    100004: bip_heel_L
+    100006: bip_heel_L_end
+    100008: bip_heel_R
+    100010: bip_heel_R_end
+    100012: bip_hip_L_1
+    100014: bip_hip_L_2
+    100016: bip_hip_R_1
+    100018: bip_hip_R_2
+    100020: bip_knee_L
+    100022: bip_knee_R
+    100024: bip_pelvis
+    100026: bip_spine_1
+    100028: bip_toe_L
+    100030: bip_toe_L_1
+    100032: bip_toe_L_1_end
+    100034: bip_toe_R
+    100036: bip_toe_R_1
+    100038: bip_toe_R_1_end
+    100040: cockpit_arm_L
+    100042: cockpit_arm_R
+    100044: dva_mech
+    100046: dva_mech.qc_skeleton
+    100048: dva_mech_glass
+    100050: dva_mech_hatch
+    100052: //RootNode
+    100054: prp_cockpit_glass
+    100056: prp_cockpit_glass_end
+    100058: prp_cockpit_lower
+    100060: prp_cockpit_lower_1
+    100062: prp_cockpit_lower_1_end
+    100064: prp_cockpit_upper
+    100066: prp_cockpit_upper_1
+    100068: prp_cockpit_upper_1_end
+    100070: prp_gun_arm_1_L
+    100072: prp_gun_arm_1_R
+    100074: prp_gun_arm_2_L
+    100076: prp_gun_arm_2_R
+    100078: prp_gun_arm_3_L
+    100080: prp_gun_arm_3_R
+    100082: prp_gun_arm_4_L
+    100084: prp_gun_arm_4_L_end
+    100086: prp_gun_arm_4_R
+    100088: prp_gun_arm_4_R_end
+    100090: prp_jet_L
+    100092: prp_jet_L_2
+    100094: prp_jet_L_2_end
+    100096: prp_jet_L_fin
+    100098: prp_jet_L_fin_end
+    100100: prp_jet_R
+    100102: prp_jet_R_2
+    100104: prp_jet_R_2_end
+    100106: prp_jet_R_fin
+    100108: prp_jet_R_fin_end
+    100110: prp_rear_hatch
+    100112: prp_rear_hatch_end
+    100114: prp_stick_L
+    100116: prp_stick_L_trigger
+    100118: prp_stick_L_trigger_end
+    100120: prp_stick_R
+    100122: prp_stick_R_trigger
+    100124: prp_stick_R_trigger_end
+    100126: prp_top_hatch
+    100128: prp_top_hatch_1
+    100130: prp_top_hatch_1_end
+    100132: prp_top_hatch_end
+    400000: bip_foot_L
+    400002: bip_foot_R
+    400004: bip_heel_L
+    400006: bip_heel_L_end
+    400008: bip_heel_R
+    400010: bip_heel_R_end
+    400012: bip_hip_L_1
+    400014: bip_hip_L_2
+    400016: bip_hip_R_1
+    400018: bip_hip_R_2
+    400020: bip_knee_L
+    400022: bip_knee_R
+    400024: bip_pelvis
+    400026: bip_spine_1
+    400028: bip_toe_L
+    400030: bip_toe_L_1
+    400032: bip_toe_L_1_end
+    400034: bip_toe_R
+    400036: bip_toe_R_1
+    400038: bip_toe_R_1_end
+    400040: cockpit_arm_L
+    400042: cockpit_arm_R
+    400044: dva_mech
+    400046: dva_mech.qc_skeleton
+    400048: dva_mech_glass
+    400050: dva_mech_hatch
+    400052: //RootNode
+    400054: prp_cockpit_glass
+    400056: prp_cockpit_glass_end
+    400058: prp_cockpit_lower
+    400060: prp_cockpit_lower_1
+    400062: prp_cockpit_lower_1_end
+    400064: prp_cockpit_upper
+    400066: prp_cockpit_upper_1
+    400068: prp_cockpit_upper_1_end
+    400070: prp_gun_arm_1_L
+    400072: prp_gun_arm_1_R
+    400074: prp_gun_arm_2_L
+    400076: prp_gun_arm_2_R
+    400078: prp_gun_arm_3_L
+    400080: prp_gun_arm_3_R
+    400082: prp_gun_arm_4_L
+    400084: prp_gun_arm_4_L_end
+    400086: prp_gun_arm_4_R
+    400088: prp_gun_arm_4_R_end
+    400090: prp_jet_L
+    400092: prp_jet_L_2
+    400094: prp_jet_L_2_end
+    400096: prp_jet_L_fin
+    400098: prp_jet_L_fin_end
+    400100: prp_jet_R
+    400102: prp_jet_R_2
+    400104: prp_jet_R_2_end
+    400106: prp_jet_R_fin
+    400108: prp_jet_R_fin_end
+    400110: prp_rear_hatch
+    400112: prp_rear_hatch_end
+    400114: prp_stick_L
+    400116: prp_stick_L_trigger
+    400118: prp_stick_L_trigger_end
+    400120: prp_stick_R
+    400122: prp_stick_R_trigger
+    400124: prp_stick_R_trigger_end
+    400126: prp_top_hatch
+    400128: prp_top_hatch_1
+    400130: prp_top_hatch_1_end
+    400132: prp_top_hatch_end
+    4300000: dva_mech_hatch
+    4300002: dva_mech_glass
+    4300004: dva_mech
+    7400000: dva_mech.qc_skeleton-idle
+    7400002: dva_mech.qc_skeleton-dvamechpose2
+    7400004: dva_mech.qc_skeleton-dvamechpose3
+    9500000: //RootNode
+    13700000: dva_mech
+    13700002: dva_mech_glass
+    13700004: dva_mech_hatch
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dva_mech.qc_skeleton-dvamechpose2
+      takeName: dva_mech.qc_skeleton|dvamechpose2
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dva_mech
+        weight: 1
+      - path: dva_mech.qc_skeleton
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L/bip_heel_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1/bip_toe_L_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R/bip_heel_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1/bip_toe_R_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger/prp_stick_L_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger/prp_stick_R_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass/prp_cockpit_glass_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1/prp_cockpit_lower_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1/prp_cockpit_upper_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L/prp_gun_arm_4_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R/prp_gun_arm_4_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin/prp_jet_L_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2/prp_jet_L_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin/prp_jet_R_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2/prp_jet_R_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch/prp_rear_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch/prp_top_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1/prp_top_hatch_1_end
+        weight: 1
+      - path: dva_mech_glass
+        weight: 1
+      - path: dva_mech_hatch
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dva_mech.qc_skeleton-dvamechpose3
+      takeName: dva_mech.qc_skeleton|dvamechpose3
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dva_mech
+        weight: 1
+      - path: dva_mech.qc_skeleton
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L/bip_heel_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1/bip_toe_L_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R/bip_heel_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1/bip_toe_R_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger/prp_stick_L_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger/prp_stick_R_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass/prp_cockpit_glass_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1/prp_cockpit_lower_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1/prp_cockpit_upper_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L/prp_gun_arm_4_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R/prp_gun_arm_4_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin/prp_jet_L_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2/prp_jet_L_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin/prp_jet_R_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2/prp_jet_R_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch/prp_rear_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch/prp_top_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1/prp_top_hatch_1_end
+        weight: 1
+      - path: dva_mech_glass
+        weight: 1
+      - path: dva_mech_hatch
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dva_mech.qc_skeleton-idle
+      takeName: dva_mech.qc_skeleton|idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dva_mech
+        weight: 1
+      - path: dva_mech.qc_skeleton
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_heel_L/bip_heel_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_L_1/bip_hip_L_2/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_1/bip_toe_L_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_heel_R/bip_heel_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_hip_R_1/bip_hip_R_2/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_1/bip_toe_R_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_L/prp_stick_L/prp_stick_L_trigger/prp_stick_L_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/cockpit_arm_R/prp_stick_R/prp_stick_R_trigger/prp_stick_R_trigger_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_glass/prp_cockpit_glass_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_lower/prp_cockpit_lower_1/prp_cockpit_lower_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_cockpit_upper/prp_cockpit_upper_1/prp_cockpit_upper_1_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_L/prp_gun_arm_2_L/prp_gun_arm_3_L/prp_gun_arm_4_L/prp_gun_arm_4_L_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_gun_arm_1_R/prp_gun_arm_2_R/prp_gun_arm_3_R/prp_gun_arm_4_R/prp_gun_arm_4_R_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L/prp_jet_L_fin/prp_jet_L_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_L_2/prp_jet_L_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R/prp_jet_R_fin/prp_jet_R_fin_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_jet_R_2/prp_jet_R_2_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_rear_hatch/prp_rear_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch/prp_top_hatch_end
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1
+        weight: 1
+      - path: dva_mech.qc_skeleton/bip_pelvis/bip_spine_1/prp_top_hatch_1/prp_top_hatch_1_end
+        weight: 1
+      - path: dva_mech_glass
+        weight: 1
+      - path: dva_mech_hatch
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

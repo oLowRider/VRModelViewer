@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: bfbc5445e0c4a1a448c70f1333714cb4
+timeCreated: 1462128238
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: elizabeth_nude.qc_skeleton
+    100004: elizabeth_nude_liz_nude_bobcut
+    100006: elizabeth_nude_liz_nude_burialhair
+    100008: elizabeth_nude_liz_nude_ponytail
+    100010: elizabeth_nude_reference
+    100012: hair back 1
+    100014: hair back 2
+    100016: hair front 1
+    100018: hair front 2
+    100020: hair front 2_end
+    100022: hair front left 1
+    100024: hair front left 2
+    100026: hair front left 2_end
+    100028: hair front right 1
+    100030: hair front right 2
+    100032: hair front right 2_end
+    100034: hair left 1
+    100036: hair left 2
+    100038: hair left 2_end
+    100040: hair right 1
+    100042: hair right 2
+    100044: hair right 2_end
+    100046: hair tail 1
+    100048: hair tail 2
+    100050: hair tail 3
+    100052: hair tail 3_end
+    100054: head cheek left 1
+    100056: head cheek left 1_end
+    100058: head cheek left 2
+    100060: head cheek left 2_end
+    100062: head cheek left 3
+    100064: head cheek left 3_end
+    100066: head cheek left 4
+    100068: head cheek left 4_end
+    100070: head cheek right 1
+    100072: head cheek right 1_end
+    100074: head cheek right 2
+    100076: head cheek right 2_end
+    100078: head cheek right 3
+    100080: head cheek right 3_end
+    100082: head cheek right 4
+    100084: head cheek right 4_end
+    100086: head chin
+    100088: head chin_end
+    100090: head eyeball left
+    100092: head eyeball left_end
+    100094: head eyeball right
+    100096: head eyeball right_end
+    100098: head eyeborw left 1
+    100100: head eyeborw left 1_end
+    100102: head eyeborw left 2
+    100104: head eyeborw left 2_end
+    100106: head eyeborw left 3
+    100108: head eyeborw left 3_end
+    100110: head eyeborw right 1
+    100112: head eyeborw right 1_end
+    100114: head eyeborw right 2
+    100116: head eyeborw right 2_end
+    100118: head eyeborw right 3
+    100120: head eyeborw right 3_end
+    100122: head eyebrow middle
+    100124: head eyebrow middle_end
+    100126: head eyelid lower left
+    100128: head eyelid lower left_end
+    100130: head eyelid lower right
+    100132: head eyelid lower right_end
+    100134: head eyelid upper left
+    100136: head eyelid upper left_end
+    100138: head eyelid upper right
+    100140: head eyelid upper right_end
+    100142: head jaw
+    100144: head lip lower ?iddle
+    100146: head lip lower ?iddle_end
+    100148: head lip lower left
+    100150: head lip lower left_end
+    100152: head lip lower right
+    100154: head lip lower right_end
+    100156: head lip upper left
+    100158: head lip upper left_end
+    100160: head lip upper middle
+    100162: head lip upper middle_end
+    100164: head lip upper right
+    100166: head lip upper right_end
+    100168: head mouth corner left
+    100170: head mouth corner left_end
+    100172: head mouth corner right
+    100174: head mouth corner right_end
+    100176: head nostril left
+    100178: head nostril left_end
+    100180: head nostril right
+    100182: head nostril right_end
+    100184: head tongue 1
+    100186: head tongue 2
+    100188: head tongue 2_end
+    100190: Melt
+    100192: ValveBiped.Bip01_Head
+    100194: ValveBiped.Bip01_L_Breast
+    100196: ValveBiped.Bip01_L_Breast_end
+    100198: ValveBiped.Bip01_L_Butt
+    100200: ValveBiped.Bip01_L_Butt_end
+    100202: ValveBiped.Bip01_L_Calf
+    100204: ValveBiped.Bip01_L_Clavicle
+    100206: ValveBiped.Bip01_L_Finger0
+    100208: ValveBiped.Bip01_L_Finger01
+    100210: ValveBiped.Bip01_L_Finger02
+    100212: ValveBiped.Bip01_L_Finger02_end
+    100214: ValveBiped.Bip01_L_Finger1
+    100216: ValveBiped.Bip01_L_Finger11
+    100218: ValveBiped.Bip01_L_Finger12
+    100220: ValveBiped.Bip01_L_Finger12_end
+    100222: ValveBiped.Bip01_L_Finger2
+    100224: ValveBiped.Bip01_L_Finger21
+    100226: ValveBiped.Bip01_L_Finger22
+    100228: ValveBiped.Bip01_L_Finger22_end
+    100230: ValveBiped.Bip01_L_Finger3
+    100232: ValveBiped.Bip01_L_Finger31
+    100234: ValveBiped.Bip01_L_Finger32
+    100236: ValveBiped.Bip01_L_Finger32_end
+    100238: ValveBiped.Bip01_L_Finger4
+    100240: ValveBiped.Bip01_L_Finger41
+    100242: ValveBiped.Bip01_L_Finger42
+    100244: ValveBiped.Bip01_L_Finger42_end
+    100246: ValveBiped.Bip01_L_Foot
+    100248: ValveBiped.Bip01_L_Forearm
+    100250: ValveBiped.Bip01_L_Hand
+    100252: ValveBiped.Bip01_L_Thigh
+    100254: ValveBiped.Bip01_L_Toe0
+    100256: ValveBiped.Bip01_L_Toe0_end
+    100258: ValveBiped.Bip01_L_UpperArm
+    100260: ValveBiped.Bip01_Neck
+    100262: ValveBiped.Bip01_Neck1
+    100264: ValveBiped.Bip01_Neck_end
+    100266: ValveBiped.Bip01_Pelvis
+    100268: ValveBiped.Bip01_R_Breast
+    100270: ValveBiped.Bip01_R_Breast_end
+    100272: ValveBiped.Bip01_R_Butt
+    100274: ValveBiped.Bip01_R_Butt_end
+    100276: ValveBiped.Bip01_R_Calf
+    100278: ValveBiped.Bip01_R_Clavicle
+    100280: ValveBiped.Bip01_R_Finger0
+    100282: ValveBiped.Bip01_R_Finger01
+    100284: ValveBiped.Bip01_R_Finger02
+    100286: ValveBiped.Bip01_R_Finger02_end
+    100288: ValveBiped.Bip01_R_Finger1
+    100290: ValveBiped.Bip01_R_Finger11
+    100292: ValveBiped.Bip01_R_Finger12
+    100294: ValveBiped.Bip01_R_Finger12_end
+    100296: ValveBiped.Bip01_R_Finger2
+    100298: ValveBiped.Bip01_R_Finger21
+    100300: ValveBiped.Bip01_R_Finger22
+    100302: ValveBiped.Bip01_R_Finger22_end
+    100304: ValveBiped.Bip01_R_Finger3
+    100306: ValveBiped.Bip01_R_Finger31
+    100308: ValveBiped.Bip01_R_Finger32
+    100310: ValveBiped.Bip01_R_Finger32_end
+    100312: ValveBiped.Bip01_R_Finger4
+    100314: ValveBiped.Bip01_R_Finger41
+    100316: ValveBiped.Bip01_R_Finger41_end
+    100318: ValveBiped.Bip01_R_Foot
+    100320: ValveBiped.Bip01_R_Forearm
+    100322: ValveBiped.Bip01_R_Hand
+    100324: ValveBiped.Bip01_R_Thigh
+    100326: ValveBiped.Bip01_R_Toe0
+    100328: ValveBiped.Bip01_R_Toe0_end
+    100330: ValveBiped.Bip01_R_UpperArm
+    100332: ValveBiped.Bip01_Spine
+    100334: ValveBiped.Bip01_Spine1
+    100336: ValveBiped.Bip01_Spine2
+    100338: ValveBiped.Bip01_Spine3
+    400000: //RootNode
+    400002: elizabeth_nude.qc_skeleton
+    400004: elizabeth_nude_liz_nude_bobcut
+    400006: elizabeth_nude_liz_nude_burialhair
+    400008: elizabeth_nude_liz_nude_ponytail
+    400010: elizabeth_nude_reference
+    400012: hair back 1
+    400014: hair back 2
+    400016: hair front 1
+    400018: hair front 2
+    400020: hair front 2_end
+    400022: hair front left 1
+    400024: hair front left 2
+    400026: hair front left 2_end
+    400028: hair front right 1
+    400030: hair front right 2
+    400032: hair front right 2_end
+    400034: hair left 1
+    400036: hair left 2
+    400038: hair left 2_end
+    400040: hair right 1
+    400042: hair right 2
+    400044: hair right 2_end
+    400046: hair tail 1
+    400048: hair tail 2
+    400050: hair tail 3
+    400052: hair tail 3_end
+    400054: head cheek left 1
+    400056: head cheek left 1_end
+    400058: head cheek left 2
+    400060: head cheek left 2_end
+    400062: head cheek left 3
+    400064: head cheek left 3_end
+    400066: head cheek left 4
+    400068: head cheek left 4_end
+    400070: head cheek right 1
+    400072: head cheek right 1_end
+    400074: head cheek right 2
+    400076: head cheek right 2_end
+    400078: head cheek right 3
+    400080: head cheek right 3_end
+    400082: head cheek right 4
+    400084: head cheek right 4_end
+    400086: head chin
+    400088: head chin_end
+    400090: head eyeball left
+    400092: head eyeball left_end
+    400094: head eyeball right
+    400096: head eyeball right_end
+    400098: head eyeborw left 1
+    400100: head eyeborw left 1_end
+    400102: head eyeborw left 2
+    400104: head eyeborw left 2_end
+    400106: head eyeborw left 3
+    400108: head eyeborw left 3_end
+    400110: head eyeborw right 1
+    400112: head eyeborw right 1_end
+    400114: head eyeborw right 2
+    400116: head eyeborw right 2_end
+    400118: head eyeborw right 3
+    400120: head eyeborw right 3_end
+    400122: head eyebrow middle
+    400124: head eyebrow middle_end
+    400126: head eyelid lower left
+    400128: head eyelid lower left_end
+    400130: head eyelid lower right
+    400132: head eyelid lower right_end
+    400134: head eyelid upper left
+    400136: head eyelid upper left_end
+    400138: head eyelid upper right
+    400140: head eyelid upper right_end
+    400142: head jaw
+    400144: head lip lower ?iddle
+    400146: head lip lower ?iddle_end
+    400148: head lip lower left
+    400150: head lip lower left_end
+    400152: head lip lower right
+    400154: head lip lower right_end
+    400156: head lip upper left
+    400158: head lip upper left_end
+    400160: head lip upper middle
+    400162: head lip upper middle_end
+    400164: head lip upper right
+    400166: head lip upper right_end
+    400168: head mouth corner left
+    400170: head mouth corner left_end
+    400172: head mouth corner right
+    400174: head mouth corner right_end
+    400176: head nostril left
+    400178: head nostril left_end
+    400180: head nostril right
+    400182: head nostril right_end
+    400184: head tongue 1
+    400186: head tongue 2
+    400188: head tongue 2_end
+    400190: Melt
+    400192: ValveBiped.Bip01_Head
+    400194: ValveBiped.Bip01_L_Breast
+    400196: ValveBiped.Bip01_L_Breast_end
+    400198: ValveBiped.Bip01_L_Butt
+    400200: ValveBiped.Bip01_L_Butt_end
+    400202: ValveBiped.Bip01_L_Calf
+    400204: ValveBiped.Bip01_L_Clavicle
+    400206: ValveBiped.Bip01_L_Finger0
+    400208: ValveBiped.Bip01_L_Finger01
+    400210: ValveBiped.Bip01_L_Finger02
+    400212: ValveBiped.Bip01_L_Finger02_end
+    400214: ValveBiped.Bip01_L_Finger1
+    400216: ValveBiped.Bip01_L_Finger11
+    400218: ValveBiped.Bip01_L_Finger12
+    400220: ValveBiped.Bip01_L_Finger12_end
+    400222: ValveBiped.Bip01_L_Finger2
+    400224: ValveBiped.Bip01_L_Finger21
+    400226: ValveBiped.Bip01_L_Finger22
+    400228: ValveBiped.Bip01_L_Finger22_end
+    400230: ValveBiped.Bip01_L_Finger3
+    400232: ValveBiped.Bip01_L_Finger31
+    400234: ValveBiped.Bip01_L_Finger32
+    400236: ValveBiped.Bip01_L_Finger32_end
+    400238: ValveBiped.Bip01_L_Finger4
+    400240: ValveBiped.Bip01_L_Finger41
+    400242: ValveBiped.Bip01_L_Finger42
+    400244: ValveBiped.Bip01_L_Finger42_end
+    400246: ValveBiped.Bip01_L_Foot
+    400248: ValveBiped.Bip01_L_Forearm
+    400250: ValveBiped.Bip01_L_Hand
+    400252: ValveBiped.Bip01_L_Thigh
+    400254: ValveBiped.Bip01_L_Toe0
+    400256: ValveBiped.Bip01_L_Toe0_end
+    400258: ValveBiped.Bip01_L_UpperArm
+    400260: ValveBiped.Bip01_Neck
+    400262: ValveBiped.Bip01_Neck1
+    400264: ValveBiped.Bip01_Neck_end
+    400266: ValveBiped.Bip01_Pelvis
+    400268: ValveBiped.Bip01_R_Breast
+    400270: ValveBiped.Bip01_R_Breast_end
+    400272: ValveBiped.Bip01_R_Butt
+    400274: ValveBiped.Bip01_R_Butt_end
+    400276: ValveBiped.Bip01_R_Calf
+    400278: ValveBiped.Bip01_R_Clavicle
+    400280: ValveBiped.Bip01_R_Finger0
+    400282: ValveBiped.Bip01_R_Finger01
+    400284: ValveBiped.Bip01_R_Finger02
+    400286: ValveBiped.Bip01_R_Finger02_end
+    400288: ValveBiped.Bip01_R_Finger1
+    400290: ValveBiped.Bip01_R_Finger11
+    400292: ValveBiped.Bip01_R_Finger12
+    400294: ValveBiped.Bip01_R_Finger12_end
+    400296: ValveBiped.Bip01_R_Finger2
+    400298: ValveBiped.Bip01_R_Finger21
+    400300: ValveBiped.Bip01_R_Finger22
+    400302: ValveBiped.Bip01_R_Finger22_end
+    400304: ValveBiped.Bip01_R_Finger3
+    400306: ValveBiped.Bip01_R_Finger31
+    400308: ValveBiped.Bip01_R_Finger32
+    400310: ValveBiped.Bip01_R_Finger32_end
+    400312: ValveBiped.Bip01_R_Finger4
+    400314: ValveBiped.Bip01_R_Finger41
+    400316: ValveBiped.Bip01_R_Finger41_end
+    400318: ValveBiped.Bip01_R_Foot
+    400320: ValveBiped.Bip01_R_Forearm
+    400322: ValveBiped.Bip01_R_Hand
+    400324: ValveBiped.Bip01_R_Thigh
+    400326: ValveBiped.Bip01_R_Toe0
+    400328: ValveBiped.Bip01_R_Toe0_end
+    400330: ValveBiped.Bip01_R_UpperArm
+    400332: ValveBiped.Bip01_Spine
+    400334: ValveBiped.Bip01_Spine1
+    400336: ValveBiped.Bip01_Spine2
+    400338: ValveBiped.Bip01_Spine3
+    4300000: elizabeth_nude_liz_nude_burialhair
+    4300002: elizabeth_nude_liz_nude_ponytail
+    4300004: elizabeth_nude_liz_nude_bobcut
+    4300006: elizabeth_nude_reference
+    7400000: elizabeth_nude.qc_skeleton|elizabeth-doggyexp
+    7400002: elizabeth_nude.qc_skeleton|elizabeth-pose1
+    7400004: elizabeth_nude.qc_skeleton|elizabeth-pose2
+    7400006: elizabeth_nude.qc_skeleton|elizabeth-pose3
+    7400008: elizabeth_nude.qc_skeleton|idle
+    9500000: //RootNode
+    13700000: elizabeth_nude_liz_nude_bobcut
+    13700002: elizabeth_nude_liz_nude_burialhair
+    13700004: elizabeth_nude_liz_nude_ponytail
+    13700006: elizabeth_nude_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

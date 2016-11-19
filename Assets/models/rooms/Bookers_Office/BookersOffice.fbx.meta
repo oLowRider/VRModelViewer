@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: fd08f4e9c5f77ad40b4014f7a6dea82c
+timeCreated: 1462091154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bookeroffice.qc_skeleton
+    100002: bookeroffice_alcohol
+    100004: bookeroffice_ashtray
+    100006: bookeroffice_bed
+    100008: bookeroffice_calenda
+    100010: bookeroffice_carpet
+    100012: bookeroffice_chair
+    100014: bookeroffice_cigarettes
+    100016: bookeroffice_crib
+    100018: bookeroffice_desk
+    100020: bookeroffice_drapes
+    100022: bookeroffice_hanger
+    100024: bookeroffice_id
+    100026: bookeroffice_luggage
+    100028: bookeroffice_mauser
+    100030: bookeroffice_papers
+    100032: bookeroffice_pillow
+    100034: bookeroffice_room
+    100036: bookeroffice_sip
+    100038: bookeroffice_stool
+    100040: bookeroffice_stove
+    100042: bookeroffice_tables
+    100044: //RootNode
+    100046: root
+    100048: root_end
+    400000: bookeroffice.qc_skeleton
+    400002: bookeroffice_alcohol
+    400004: bookeroffice_ashtray
+    400006: bookeroffice_bed
+    400008: bookeroffice_calenda
+    400010: bookeroffice_carpet
+    400012: bookeroffice_chair
+    400014: bookeroffice_cigarettes
+    400016: bookeroffice_crib
+    400018: bookeroffice_desk
+    400020: bookeroffice_drapes
+    400022: bookeroffice_hanger
+    400024: bookeroffice_id
+    400026: bookeroffice_luggage
+    400028: bookeroffice_mauser
+    400030: bookeroffice_papers
+    400032: bookeroffice_pillow
+    400034: bookeroffice_room
+    400036: bookeroffice_sip
+    400038: bookeroffice_stool
+    400040: bookeroffice_stove
+    400042: bookeroffice_tables
+    400044: //RootNode
+    400046: root
+    400048: root_end
+    4300000: bookeroffice_tables
+    4300002: bookeroffice_stove
+    4300004: bookeroffice_stool
+    4300006: bookeroffice_sip
+    4300008: bookeroffice_pillow
+    4300010: bookeroffice_papers
+    4300012: bookeroffice_mauser
+    4300014: bookeroffice_luggage
+    4300016: bookeroffice_id
+    4300018: bookeroffice_hanger
+    4300020: bookeroffice_drapes
+    4300022: bookeroffice_desk
+    4300024: bookeroffice_crib
+    4300026: bookeroffice_cigarettes
+    4300028: bookeroffice_chair
+    4300030: bookeroffice_carpet
+    4300032: bookeroffice_calenda
+    4300034: bookeroffice_bed
+    4300036: bookeroffice_ashtray
+    4300038: bookeroffice_alcohol
+    4300040: bookeroffice_room
+    7400000: bookeroffice.qc_skeleton|ragdoll
+    9500000: //RootNode
+    13700000: bookeroffice_alcohol
+    13700002: bookeroffice_ashtray
+    13700004: bookeroffice_bed
+    13700006: bookeroffice_calenda
+    13700008: bookeroffice_carpet
+    13700010: bookeroffice_chair
+    13700012: bookeroffice_cigarettes
+    13700014: bookeroffice_crib
+    13700016: bookeroffice_desk
+    13700018: bookeroffice_drapes
+    13700020: bookeroffice_hanger
+    13700022: bookeroffice_id
+    13700024: bookeroffice_luggage
+    13700026: bookeroffice_mauser
+    13700028: bookeroffice_papers
+    13700030: bookeroffice_pillow
+    13700032: bookeroffice_room
+    13700034: bookeroffice_sip
+    13700036: bookeroffice_stool
+    13700038: bookeroffice_stove
+    13700040: bookeroffice_tables
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

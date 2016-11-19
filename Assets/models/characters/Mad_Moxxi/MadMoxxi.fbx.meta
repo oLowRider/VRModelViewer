@@ -1,0 +1,2602 @@
+fileFormatVersion: 2
+guid: c98e77c8a5aadb040ae85932f9036489
+timeCreated: 1459677502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hair_bang.1
+    100002: hair_bang.2
+    100004: hair_bang.3
+    100006: hair_bang.4
+    100008: hair_bang.4_end
+    100010: hair_left_1.1
+    100012: hair_left_1.2
+    100014: hair_left_1.3
+    100016: hair_left_1.3_end
+    100018: hair_left_2.1
+    100020: hair_left_2.2
+    100022: hair_left_2.3
+    100024: hair_left_2.3_end
+    100026: hair_left_3.1
+    100028: hair_left_3.2
+    100030: hair_left_3.3
+    100032: hair_left_3.3_end
+    100034: hair_right_1.1
+    100036: hair_right_1.2
+    100038: hair_right_1.3
+    100040: hair_right_1.3_end
+    100042: hair_right_2.1
+    100044: hair_right_2.2
+    100046: hair_right_2.3
+    100048: hair_right_2.3_end
+    100050: //RootNode
+    100052: moxxi_nude.qc_skeleton
+    100054: moxxi_nude_back_skirt
+    100056: moxxi_nude_belt_to_holster
+    100058: moxxi_nude_bg_hat
+    100060: moxxi_nude_body_corset_boots
+    100062: moxxi_nude_body_corset_full
+    100064: moxxi_nude_body_corset_leggings
+    100066: moxxi_nude_body_nude_boots
+    100068: moxxi_nude_body_nude_full
+    100070: moxxi_nude_body_nude_leggings
+    100072: moxxi_nude_bra
+    100074: moxxi_nude_front_skirt
+    100076: moxxi_nude_holster
+    100078: moxxi_nude_holster_belt
+    100080: moxxi_nude_leg_left_fishnet
+    100082: moxxi_nude_leg_left_legging
+    100084: moxxi_nude_leg_right_fishnet
+    100086: moxxi_nude_leg_right_legging
+    100088: moxxi_nude_moxxi_hair
+    100090: moxxi_nude_reference
+    100092: NPC Head [Head]
+    100094: NPC L Breast
+    100096: NPC L Breast01
+    100098: NPC L Breast01_end
+    100100: NPC L Butt
+    100102: NPC L Butt_end
+    100104: NPC L Calf [LClf]
+    100106: NPC L Clavicle [LClv]
+    100108: NPC L Finger00 [LF00]
+    100110: NPC L Finger01 [LF01]
+    100112: NPC L Finger02 [LF02]
+    100114: NPC L Finger02 [LF02]_end
+    100116: NPC L Finger10 [LF10]
+    100118: NPC L Finger11 [LF11]
+    100120: NPC L Finger12 [LF12]
+    100122: NPC L Finger12 [LF12]_end
+    100124: NPC L Finger20 [LF20]
+    100126: NPC L Finger21 [LF21]
+    100128: NPC L Finger22 [LF22]
+    100130: NPC L Finger22 [LF22]_end
+    100132: NPC L Finger30 [LF30]
+    100134: NPC L Finger31 [LF31]
+    100136: NPC L Finger32 [LF32]
+    100138: NPC L Finger32 [LF32]_end
+    100140: NPC L Finger40 [LF40]
+    100142: NPC L Finger41 [LF41]
+    100144: NPC L Finger42 [LF42]
+    100146: NPC L Finger42 [LF42]_end
+    100148: NPC L Foot [Lft ]
+    100150: NPC L Forearm [LLar]
+    100152: NPC L ForearmTwist1 [LLt1]
+    100154: NPC L ForearmTwist1 [LLt1]_end
+    100156: NPC L ForearmTwist2 [LLt2]
+    100158: NPC L ForearmTwist2 [LLt2]_end
+    100160: NPC L Hand [LHnd]
+    100162: NPC L Thigh [LThg]
+    100164: NPC L Toe0 [LToe]
+    100166: NPC L Toe0 [LToe]_end
+    100168: NPC L UpperArm [LUar]
+    100170: NPC L UpperarmTwist1 [LUt1]
+    100172: NPC L UpperarmTwist1 [LUt1]_end
+    100174: NPC L UpperarmTwist2 [LUt2]
+    100176: NPC L UpperarmTwist2 [LUt2]_end
+    100178: NPC Neck [Neck]
+    100180: NPC Pelvis [Pelv]
+    100182: NPC R Breast
+    100184: NPC R Breast01
+    100186: NPC R Breast01_end
+    100188: NPC R Butt
+    100190: NPC R Butt_end
+    100192: NPC R Calf [RClf]
+    100194: NPC R Clavicle [RClv]
+    100196: NPC R Finger00 [RF00]
+    100198: NPC R Finger01 [RF01]
+    100200: NPC R Finger02 [RF02]
+    100202: NPC R Finger02 [RF02]_end
+    100204: NPC R Finger10 [RF10]
+    100206: NPC R Finger11 [RF11]
+    100208: NPC R Finger12 [RF12]
+    100210: NPC R Finger12 [RF12]_end
+    100212: NPC R Finger20 [RF20]
+    100214: NPC R Finger21 [RF21]
+    100216: NPC R Finger22 [RF22]
+    100218: NPC R Finger22 [RF22]_end
+    100220: NPC R Finger30 [RF30]
+    100222: NPC R Finger31 [RF31]
+    100224: NPC R Finger32 [RF32]
+    100226: NPC R Finger32 [RF32]_end
+    100228: NPC R Finger40 [RF40]
+    100230: NPC R Finger41 [RF41]
+    100232: NPC R Finger42 [RF42]
+    100234: NPC R Finger42 [RF42]_end
+    100236: NPC R Foot [Rft ]
+    100238: NPC R Forearm [RLar]
+    100240: NPC R ForearmTwist1 [RLt1]
+    100242: NPC R ForearmTwist1 [RLt1]_end
+    100244: NPC R ForearmTwist2 [RLt2]
+    100246: NPC R ForearmTwist2 [RLt2]_end
+    100248: NPC R Hand [RHnd]
+    100250: NPC R Thigh [RThg]
+    100252: NPC R Toe0 [RToe]
+    100254: NPC R Toe0 [RToe]_end
+    100256: NPC R UpperArm [RUar]
+    100258: NPC R UpperarmTwist1 [RUt1]
+    100260: NPC R UpperarmTwist1 [RUt1]_end
+    100262: NPC R UpperarmTwist2 [RUt2]
+    100264: NPC R UpperarmTwist2 [RUt2]_end
+    100266: NPC Spine [Spn0]
+    100268: NPC Spine1 [Spn1]
+    100270: NPC Spine2 [Spn2]
+    100272: root.hat
+    100274: root.hat_end
+    100276: skirt_front_center.2
+    100278: skirt_front_center.2_end
+    100280: skirt_front_right.2
+    100282: skirt_front_right.2_end
+    100284: skirt_right_center.1
+    100286: skirt_right_front.1
+    100288: skirt_right_tail.1
+    100290: skirt_right_tail.2
+    100292: skirt_right_tail.3
+    100294: skirt_right_tail.4
+    100296: skirt_right_tail.5
+    100298: skirt_right_tail.6
+    100300: skirt_right_tail.6_end
+    100302: skirt_tail_left.1
+    100304: skirt_tail_left.2
+    100306: skirt_tail_left.3
+    100308: skirt_tail_left.4
+    100310: skirt_tail_left.5
+    100312: skirt_tail_left.6
+    100314: skirt_tail_left.6_end
+    400000: hair_bang.1
+    400002: hair_bang.2
+    400004: hair_bang.3
+    400006: hair_bang.4
+    400008: hair_bang.4_end
+    400010: hair_left_1.1
+    400012: hair_left_1.2
+    400014: hair_left_1.3
+    400016: hair_left_1.3_end
+    400018: hair_left_2.1
+    400020: hair_left_2.2
+    400022: hair_left_2.3
+    400024: hair_left_2.3_end
+    400026: hair_left_3.1
+    400028: hair_left_3.2
+    400030: hair_left_3.3
+    400032: hair_left_3.3_end
+    400034: hair_right_1.1
+    400036: hair_right_1.2
+    400038: hair_right_1.3
+    400040: hair_right_1.3_end
+    400042: hair_right_2.1
+    400044: hair_right_2.2
+    400046: hair_right_2.3
+    400048: hair_right_2.3_end
+    400050: //RootNode
+    400052: moxxi_nude.qc_skeleton
+    400054: moxxi_nude_back_skirt
+    400056: moxxi_nude_belt_to_holster
+    400058: moxxi_nude_bg_hat
+    400060: moxxi_nude_body_corset_boots
+    400062: moxxi_nude_body_corset_full
+    400064: moxxi_nude_body_corset_leggings
+    400066: moxxi_nude_body_nude_boots
+    400068: moxxi_nude_body_nude_full
+    400070: moxxi_nude_body_nude_leggings
+    400072: moxxi_nude_bra
+    400074: moxxi_nude_front_skirt
+    400076: moxxi_nude_holster
+    400078: moxxi_nude_holster_belt
+    400080: moxxi_nude_leg_left_fishnet
+    400082: moxxi_nude_leg_left_legging
+    400084: moxxi_nude_leg_right_fishnet
+    400086: moxxi_nude_leg_right_legging
+    400088: moxxi_nude_moxxi_hair
+    400090: moxxi_nude_reference
+    400092: NPC Head [Head]
+    400094: NPC L Breast
+    400096: NPC L Breast01
+    400098: NPC L Breast01_end
+    400100: NPC L Butt
+    400102: NPC L Butt_end
+    400104: NPC L Calf [LClf]
+    400106: NPC L Clavicle [LClv]
+    400108: NPC L Finger00 [LF00]
+    400110: NPC L Finger01 [LF01]
+    400112: NPC L Finger02 [LF02]
+    400114: NPC L Finger02 [LF02]_end
+    400116: NPC L Finger10 [LF10]
+    400118: NPC L Finger11 [LF11]
+    400120: NPC L Finger12 [LF12]
+    400122: NPC L Finger12 [LF12]_end
+    400124: NPC L Finger20 [LF20]
+    400126: NPC L Finger21 [LF21]
+    400128: NPC L Finger22 [LF22]
+    400130: NPC L Finger22 [LF22]_end
+    400132: NPC L Finger30 [LF30]
+    400134: NPC L Finger31 [LF31]
+    400136: NPC L Finger32 [LF32]
+    400138: NPC L Finger32 [LF32]_end
+    400140: NPC L Finger40 [LF40]
+    400142: NPC L Finger41 [LF41]
+    400144: NPC L Finger42 [LF42]
+    400146: NPC L Finger42 [LF42]_end
+    400148: NPC L Foot [Lft ]
+    400150: NPC L Forearm [LLar]
+    400152: NPC L ForearmTwist1 [LLt1]
+    400154: NPC L ForearmTwist1 [LLt1]_end
+    400156: NPC L ForearmTwist2 [LLt2]
+    400158: NPC L ForearmTwist2 [LLt2]_end
+    400160: NPC L Hand [LHnd]
+    400162: NPC L Thigh [LThg]
+    400164: NPC L Toe0 [LToe]
+    400166: NPC L Toe0 [LToe]_end
+    400168: NPC L UpperArm [LUar]
+    400170: NPC L UpperarmTwist1 [LUt1]
+    400172: NPC L UpperarmTwist1 [LUt1]_end
+    400174: NPC L UpperarmTwist2 [LUt2]
+    400176: NPC L UpperarmTwist2 [LUt2]_end
+    400178: NPC Neck [Neck]
+    400180: NPC Pelvis [Pelv]
+    400182: NPC R Breast
+    400184: NPC R Breast01
+    400186: NPC R Breast01_end
+    400188: NPC R Butt
+    400190: NPC R Butt_end
+    400192: NPC R Calf [RClf]
+    400194: NPC R Clavicle [RClv]
+    400196: NPC R Finger00 [RF00]
+    400198: NPC R Finger01 [RF01]
+    400200: NPC R Finger02 [RF02]
+    400202: NPC R Finger02 [RF02]_end
+    400204: NPC R Finger10 [RF10]
+    400206: NPC R Finger11 [RF11]
+    400208: NPC R Finger12 [RF12]
+    400210: NPC R Finger12 [RF12]_end
+    400212: NPC R Finger20 [RF20]
+    400214: NPC R Finger21 [RF21]
+    400216: NPC R Finger22 [RF22]
+    400218: NPC R Finger22 [RF22]_end
+    400220: NPC R Finger30 [RF30]
+    400222: NPC R Finger31 [RF31]
+    400224: NPC R Finger32 [RF32]
+    400226: NPC R Finger32 [RF32]_end
+    400228: NPC R Finger40 [RF40]
+    400230: NPC R Finger41 [RF41]
+    400232: NPC R Finger42 [RF42]
+    400234: NPC R Finger42 [RF42]_end
+    400236: NPC R Foot [Rft ]
+    400238: NPC R Forearm [RLar]
+    400240: NPC R ForearmTwist1 [RLt1]
+    400242: NPC R ForearmTwist1 [RLt1]_end
+    400244: NPC R ForearmTwist2 [RLt2]
+    400246: NPC R ForearmTwist2 [RLt2]_end
+    400248: NPC R Hand [RHnd]
+    400250: NPC R Thigh [RThg]
+    400252: NPC R Toe0 [RToe]
+    400254: NPC R Toe0 [RToe]_end
+    400256: NPC R UpperArm [RUar]
+    400258: NPC R UpperarmTwist1 [RUt1]
+    400260: NPC R UpperarmTwist1 [RUt1]_end
+    400262: NPC R UpperarmTwist2 [RUt2]
+    400264: NPC R UpperarmTwist2 [RUt2]_end
+    400266: NPC Spine [Spn0]
+    400268: NPC Spine1 [Spn1]
+    400270: NPC Spine2 [Spn2]
+    400272: root.hat
+    400274: root.hat_end
+    400276: skirt_front_center.2
+    400278: skirt_front_center.2_end
+    400280: skirt_front_right.2
+    400282: skirt_front_right.2_end
+    400284: skirt_right_center.1
+    400286: skirt_right_front.1
+    400288: skirt_right_tail.1
+    400290: skirt_right_tail.2
+    400292: skirt_right_tail.3
+    400294: skirt_right_tail.4
+    400296: skirt_right_tail.5
+    400298: skirt_right_tail.6
+    400300: skirt_right_tail.6_end
+    400302: skirt_tail_left.1
+    400304: skirt_tail_left.2
+    400306: skirt_tail_left.3
+    400308: skirt_tail_left.4
+    400310: skirt_tail_left.5
+    400312: skirt_tail_left.6
+    400314: skirt_tail_left.6_end
+    4300000: moxxi_nude_leg_left_fishnet
+    4300002: moxxi_nude_leg_left_legging
+    4300004: moxxi_nude_leg_right_legging
+    4300006: moxxi_nude_leg_right_fishnet
+    4300008: moxxi_nude_back_skirt
+    4300010: moxxi_nude_front_skirt
+    4300012: moxxi_nude_belt_to_holster
+    4300014: moxxi_nude_holster_belt
+    4300016: moxxi_nude_holster
+    4300018: moxxi_nude_bra
+    4300020: moxxi_nude_body_nude_full
+    4300022: moxxi_nude_body_nude_boots
+    4300024: moxxi_nude_body_nude_leggings
+    4300026: moxxi_nude_body_corset_full
+    4300028: moxxi_nude_body_corset_boots
+    4300030: moxxi_nude_body_corset_leggings
+    4300032: moxxi_nude_bg_hat
+    4300034: moxxi_nude_moxxi_hair
+    4300036: moxxi_nude_reference
+    7400000: moxxi_nude.qc_skeleton|ragdoll
+    7400002: moxxi_nude.qc_skeleton-moxxipose1
+    7400004: moxxi_nude.qc_skeleton-moxxipose2
+    7400006: moxxi_nude.qc_skeleton-moxxipose3
+    9500000: //RootNode
+    13700000: moxxi_nude_back_skirt
+    13700002: moxxi_nude_belt_to_holster
+    13700004: moxxi_nude_bg_hat
+    13700006: moxxi_nude_body_corset_boots
+    13700008: moxxi_nude_body_corset_full
+    13700010: moxxi_nude_body_corset_leggings
+    13700012: moxxi_nude_body_nude_boots
+    13700014: moxxi_nude_body_nude_full
+    13700016: moxxi_nude_body_nude_leggings
+    13700018: moxxi_nude_bra
+    13700020: moxxi_nude_front_skirt
+    13700022: moxxi_nude_holster
+    13700024: moxxi_nude_holster_belt
+    13700026: moxxi_nude_leg_left_fishnet
+    13700028: moxxi_nude_leg_left_legging
+    13700030: moxxi_nude_leg_right_fishnet
+    13700032: moxxi_nude_leg_right_legging
+    13700034: moxxi_nude_moxxi_hair
+    13700036: moxxi_nude_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: moxxi_nude.qc_skeleton-moxxipose1
+      takeName: moxxi_nude.qc_skeleton|moxxipose1
+      firstFrame: 0
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moxxi_nude.qc_skeleton
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt/NPC L Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]/NPC L Toe0 [LToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt/NPC R Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]/NPC R Toe0 [RToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01/NPC L Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]/NPC L ForearmTwist1 [LLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]/NPC L ForearmTwist2 [LLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]/NPC L Finger02 [LF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]/NPC L Finger12 [LF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]/NPC L Finger22 [LF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]/NPC L Finger32 [LF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]/NPC L Finger42 [LF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]/NPC L UpperarmTwist1 [LUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]/NPC L UpperarmTwist2 [LUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4/hair_bang.4_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3/hair_left_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3/hair_left_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3/hair_left_3.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3/hair_right_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3/hair_right_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat/root.hat_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01/NPC R Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]/NPC R ForearmTwist1 [RLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]/NPC R ForearmTwist2 [RLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]/NPC R Finger02 [RF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]/NPC R Finger12 [RF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]/NPC R Finger22 [RF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]/NPC R Finger32 [RF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]/NPC R Finger42 [RF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]/NPC R UpperarmTwist1 [RUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]/NPC R UpperarmTwist2 [RUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2/skirt_front_center.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2/skirt_front_right.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6/skirt_right_tail.6_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6/skirt_tail_left.6_end
+        weight: 1
+      - path: moxxi_nude_back_skirt
+        weight: 1
+      - path: moxxi_nude_belt_to_holster
+        weight: 1
+      - path: moxxi_nude_bg_hat
+        weight: 1
+      - path: moxxi_nude_body_corset_boots
+        weight: 1
+      - path: moxxi_nude_body_corset_full
+        weight: 1
+      - path: moxxi_nude_body_corset_leggings
+        weight: 1
+      - path: moxxi_nude_body_nude_boots
+        weight: 1
+      - path: moxxi_nude_body_nude_full
+        weight: 1
+      - path: moxxi_nude_body_nude_leggings
+        weight: 1
+      - path: moxxi_nude_bra
+        weight: 1
+      - path: moxxi_nude_front_skirt
+        weight: 1
+      - path: moxxi_nude_holster
+        weight: 1
+      - path: moxxi_nude_holster_belt
+        weight: 1
+      - path: moxxi_nude_leg_left_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_left_legging
+        weight: 1
+      - path: moxxi_nude_leg_right_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_right_legging
+        weight: 1
+      - path: moxxi_nude_moxxi_hair
+        weight: 1
+      - path: moxxi_nude_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: moxxi_nude.qc_skeleton-moxxipose2
+      takeName: moxxi_nude.qc_skeleton|moxxipose2
+      firstFrame: 0
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moxxi_nude.qc_skeleton
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt/NPC L Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]/NPC L Toe0 [LToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt/NPC R Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]/NPC R Toe0 [RToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01/NPC L Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]/NPC L ForearmTwist1 [LLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]/NPC L ForearmTwist2 [LLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]/NPC L Finger02 [LF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]/NPC L Finger12 [LF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]/NPC L Finger22 [LF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]/NPC L Finger32 [LF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]/NPC L Finger42 [LF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]/NPC L UpperarmTwist1 [LUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]/NPC L UpperarmTwist2 [LUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4/hair_bang.4_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3/hair_left_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3/hair_left_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3/hair_left_3.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3/hair_right_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3/hair_right_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat/root.hat_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01/NPC R Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]/NPC R ForearmTwist1 [RLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]/NPC R ForearmTwist2 [RLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]/NPC R Finger02 [RF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]/NPC R Finger12 [RF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]/NPC R Finger22 [RF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]/NPC R Finger32 [RF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]/NPC R Finger42 [RF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]/NPC R UpperarmTwist1 [RUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]/NPC R UpperarmTwist2 [RUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2/skirt_front_center.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2/skirt_front_right.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6/skirt_right_tail.6_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6/skirt_tail_left.6_end
+        weight: 1
+      - path: moxxi_nude_back_skirt
+        weight: 1
+      - path: moxxi_nude_belt_to_holster
+        weight: 1
+      - path: moxxi_nude_bg_hat
+        weight: 1
+      - path: moxxi_nude_body_corset_boots
+        weight: 1
+      - path: moxxi_nude_body_corset_full
+        weight: 1
+      - path: moxxi_nude_body_corset_leggings
+        weight: 1
+      - path: moxxi_nude_body_nude_boots
+        weight: 1
+      - path: moxxi_nude_body_nude_full
+        weight: 1
+      - path: moxxi_nude_body_nude_leggings
+        weight: 1
+      - path: moxxi_nude_bra
+        weight: 1
+      - path: moxxi_nude_front_skirt
+        weight: 1
+      - path: moxxi_nude_holster
+        weight: 1
+      - path: moxxi_nude_holster_belt
+        weight: 1
+      - path: moxxi_nude_leg_left_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_left_legging
+        weight: 1
+      - path: moxxi_nude_leg_right_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_right_legging
+        weight: 1
+      - path: moxxi_nude_moxxi_hair
+        weight: 1
+      - path: moxxi_nude_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: moxxi_nude.qc_skeleton-moxxipose3
+      takeName: moxxi_nude.qc_skeleton|moxxipose3
+      firstFrame: 0
+      lastFrame: 3600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moxxi_nude.qc_skeleton
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt/NPC L Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]/NPC L Toe0 [LToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt/NPC R Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]/NPC R Toe0 [RToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01/NPC L Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]/NPC L ForearmTwist1 [LLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]/NPC L ForearmTwist2 [LLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]/NPC L Finger02 [LF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]/NPC L Finger12 [LF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]/NPC L Finger22 [LF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]/NPC L Finger32 [LF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]/NPC L Finger42 [LF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]/NPC L UpperarmTwist1 [LUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]/NPC L UpperarmTwist2 [LUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4/hair_bang.4_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3/hair_left_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3/hair_left_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3/hair_left_3.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3/hair_right_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3/hair_right_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat/root.hat_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01/NPC R Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]/NPC R ForearmTwist1 [RLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]/NPC R ForearmTwist2 [RLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]/NPC R Finger02 [RF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]/NPC R Finger12 [RF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]/NPC R Finger22 [RF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]/NPC R Finger32 [RF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]/NPC R Finger42 [RF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]/NPC R UpperarmTwist1 [RUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]/NPC R UpperarmTwist2 [RUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2/skirt_front_center.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2/skirt_front_right.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6/skirt_right_tail.6_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6/skirt_tail_left.6_end
+        weight: 1
+      - path: moxxi_nude_back_skirt
+        weight: 1
+      - path: moxxi_nude_belt_to_holster
+        weight: 1
+      - path: moxxi_nude_bg_hat
+        weight: 1
+      - path: moxxi_nude_body_corset_boots
+        weight: 1
+      - path: moxxi_nude_body_corset_full
+        weight: 1
+      - path: moxxi_nude_body_corset_leggings
+        weight: 1
+      - path: moxxi_nude_body_nude_boots
+        weight: 1
+      - path: moxxi_nude_body_nude_full
+        weight: 1
+      - path: moxxi_nude_body_nude_leggings
+        weight: 1
+      - path: moxxi_nude_bra
+        weight: 1
+      - path: moxxi_nude_front_skirt
+        weight: 1
+      - path: moxxi_nude_holster
+        weight: 1
+      - path: moxxi_nude_holster_belt
+        weight: 1
+      - path: moxxi_nude_leg_left_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_left_legging
+        weight: 1
+      - path: moxxi_nude_leg_right_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_right_legging
+        weight: 1
+      - path: moxxi_nude_moxxi_hair
+        weight: 1
+      - path: moxxi_nude_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: moxxi_nude.qc_skeleton|ragdoll
+      takeName: moxxi_nude.qc_skeleton|ragdoll
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moxxi_nude.qc_skeleton
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Butt/NPC L Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC L Thigh [LThg]/NPC L Calf
+          [LClf]/NPC L Foot [Lft ]/NPC L Toe0 [LToe]/NPC L Toe0 [LToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Butt/NPC R Butt_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC R Thigh [RThg]/NPC R Calf
+          [RClf]/NPC R Foot [Rft ]/NPC R Toe0 [RToe]/NPC R Toe0 [RToe]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Breast/NPC L Breast01/NPC L Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist1 [LLt1]/NPC L ForearmTwist1 [LLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L ForearmTwist2 [LLt2]/NPC L ForearmTwist2 [LLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger00 [LF00]/NPC L Finger01
+          [LF01]/NPC L Finger02 [LF02]/NPC L Finger02 [LF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger10 [LF10]/NPC L Finger11
+          [LF11]/NPC L Finger12 [LF12]/NPC L Finger12 [LF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger20 [LF20]/NPC L Finger21
+          [LF21]/NPC L Finger22 [LF22]/NPC L Finger22 [LF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger30 [LF30]/NPC L Finger31
+          [LF31]/NPC L Finger32 [LF32]/NPC L Finger32 [LF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L Forearm [LLar]/NPC L Hand [LHnd]/NPC L Finger40 [LF40]/NPC L Finger41
+          [LF41]/NPC L Finger42 [LF42]/NPC L Finger42 [LF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist1 [LUt1]/NPC L UpperarmTwist1 [LUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC L Clavicle [LClv]/NPC L UpperArm [LUar]/NPC
+          L UpperarmTwist2 [LUt2]/NPC L UpperarmTwist2 [LUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_bang.1/hair_bang.2/hair_bang.3/hair_bang.4/hair_bang.4_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_1.1/hair_left_1.2/hair_left_1.3/hair_left_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_2.1/hair_left_2.2/hair_left_2.3/hair_left_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_left_3.1/hair_left_3.2/hair_left_3.3/hair_left_3.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_1.1/hair_right_1.2/hair_right_1.3/hair_right_1.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/hair_right_2.1/hair_right_2.2/hair_right_2.3/hair_right_2.3_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC Neck [Neck]/NPC Head [Head]/root.hat/root.hat_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Breast/NPC R Breast01/NPC R Breast01_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist1 [RLt1]/NPC R ForearmTwist1 [RLt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R ForearmTwist2 [RLt2]/NPC R ForearmTwist2 [RLt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger00 [RF00]/NPC R Finger01
+          [RF01]/NPC R Finger02 [RF02]/NPC R Finger02 [RF02]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger10 [RF10]/NPC R Finger11
+          [RF11]/NPC R Finger12 [RF12]/NPC R Finger12 [RF12]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger20 [RF20]/NPC R Finger21
+          [RF21]/NPC R Finger22 [RF22]/NPC R Finger22 [RF22]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger30 [RF30]/NPC R Finger31
+          [RF31]/NPC R Finger32 [RF32]/NPC R Finger32 [RF32]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R Forearm [RLar]/NPC R Hand [RHnd]/NPC R Finger40 [RF40]/NPC R Finger41
+          [RF41]/NPC R Finger42 [RF42]/NPC R Finger42 [RF42]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist1 [RUt1]/NPC R UpperarmTwist1 [RUt1]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/NPC Spine [Spn0]/NPC Spine1
+          [Spn1]/NPC Spine2 [Spn2]/NPC R Clavicle [RClv]/NPC R UpperArm [RUar]/NPC
+          R UpperarmTwist2 [RUt2]/NPC R UpperarmTwist2 [RUt2]_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_center.1/skirt_front_center.2/skirt_front_center.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_front.1/skirt_front_right.2/skirt_front_right.2_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_right_tail.1/skirt_right_tail.2/skirt_right_tail.3/skirt_right_tail.4/skirt_right_tail.5/skirt_right_tail.6/skirt_right_tail.6_end
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6
+        weight: 1
+      - path: moxxi_nude.qc_skeleton/NPC Pelvis [Pelv]/skirt_tail_left.1/skirt_tail_left.2/skirt_tail_left.3/skirt_tail_left.4/skirt_tail_left.5/skirt_tail_left.6/skirt_tail_left.6_end
+        weight: 1
+      - path: moxxi_nude_back_skirt
+        weight: 1
+      - path: moxxi_nude_belt_to_holster
+        weight: 1
+      - path: moxxi_nude_bg_hat
+        weight: 1
+      - path: moxxi_nude_body_corset_boots
+        weight: 1
+      - path: moxxi_nude_body_corset_full
+        weight: 1
+      - path: moxxi_nude_body_corset_leggings
+        weight: 1
+      - path: moxxi_nude_body_nude_boots
+        weight: 1
+      - path: moxxi_nude_body_nude_full
+        weight: 1
+      - path: moxxi_nude_body_nude_leggings
+        weight: 1
+      - path: moxxi_nude_bra
+        weight: 1
+      - path: moxxi_nude_front_skirt
+        weight: 1
+      - path: moxxi_nude_holster
+        weight: 1
+      - path: moxxi_nude_holster_belt
+        weight: 1
+      - path: moxxi_nude_leg_left_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_left_legging
+        weight: 1
+      - path: moxxi_nude_leg_right_fishnet
+        weight: 1
+      - path: moxxi_nude_leg_right_legging
+        weight: 1
+      - path: moxxi_nude_moxxi_hair
+        weight: 1
+      - path: moxxi_nude_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

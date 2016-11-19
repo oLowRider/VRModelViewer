@@ -1,0 +1,3199 @@
+fileFormatVersion: 2
+guid: 725838cf474e984418543b3341143fda
+timeCreated: 1460119977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Breast.L
+    100002: Breast.L_end
+    100004: Breast.R
+    100006: Breast.R_end
+    100008: Butt.L
+    100010: Butt.L_end
+    100012: Butt.R
+    100014: Butt.R_end
+    100016: Cheek.L
+    100018: Cheek.L.1
+    100020: Cheek.L.1_end
+    100022: Cheek.L_end
+    100024: Cheek.R
+    100026: Cheek.R.1
+    100028: Cheek.R.1_end
+    100030: Cheek.R_end
+    100032: Clav.L
+    100034: Clav.R
+    100036: Clav_FK.L
+    100038: Clav_FK.L_end
+    100040: Clav_FK.R
+    100042: Clav_FK.R_end
+    100044: Eye.L
+    100046: Eye.L_end
+    100048: Eye.R
+    100050: Eye.R_end
+    100052: Eyebrow.L
+    100054: Eyebrow.L.1
+    100056: Eyebrow.L.1_end
+    100058: Eyebrow.L.2
+    100060: Eyebrow.L.2_end
+    100062: Eyebrow.L_end
+    100064: Eyebrow.R
+    100066: Eyebrow.R.1
+    100068: Eyebrow.R.1_end
+    100070: Eyebrow.R.2
+    100072: Eyebrow.R.2_end
+    100074: Eyebrow.R_end
+    100076: Finger01.L
+    100078: Finger01.R
+    100080: Finger02.L
+    100082: Finger02.R
+    100084: Finger03.L
+    100086: Finger03.L_end
+    100088: Finger03.R
+    100090: Finger03.R_end
+    100092: Finger11.L
+    100094: Finger11.R
+    100096: Finger12.L
+    100098: Finger12.R
+    100100: Finger13.L
+    100102: Finger13.L_end
+    100104: Finger13.R
+    100106: Finger13.R_end
+    100108: Finger21.L
+    100110: Finger21.R
+    100112: Finger22.L
+    100114: Finger22.R
+    100116: Finger23.L
+    100118: Finger23.L_end
+    100120: Finger23.R
+    100122: Finger23.R_end
+    100124: Finger31.L
+    100126: Finger31.R
+    100128: Finger32.L
+    100130: Finger32.R
+    100132: Finger33.L
+    100134: Finger33.L_end
+    100136: Finger33.R
+    100138: Finger33.R_end
+    100140: Finger41.L
+    100142: Finger41.R
+    100144: Finger42.L
+    100146: Finger42.R
+    100148: Finger43.L
+    100150: Finger43.L_end
+    100152: Finger43.R
+    100154: Finger43.R_end
+    100156: Foot.L
+    100158: Foot.R
+    100160: Hair.0
+    100162: Hair.01
+    100164: Hair.01_end
+    100166: Hair.1
+    100168: Hair.1_end
+    100170: Hair.2
+    100172: Hair.2_end
+    100174: Hair.3
+    100176: Hair.3_end
+    100178: Hair_Back
+    100180: Hair_Back_end
+    100182: Hair_Front_10
+    100184: Hair_Front_11
+    100186: Hair_Front_11_end
+    100188: Hair_Front_20
+    100190: Hair_Front_21
+    100192: Hair_Front_21_end
+    100194: Hair_Front_30
+    100196: Hair_Front_31
+    100198: Hair_Front_31_end
+    100200: Hair_Front_40
+    100202: Hair_Front_41
+    100204: Hair_Front_41_end
+    100206: Hair_Root
+    100208: Hand.L
+    100210: Hand.R
+    100212: Head
+    100214: Jacket.L
+    100216: Jacket.L_end
+    100218: Jacket.R
+    100220: Jacket.R_end
+    100222: JacketCollar.L
+    100224: JacketCollar.L_end
+    100226: JacketCollar.R
+    100228: JacketCollar.R_end
+    100230: JacketCollar_Back
+    100232: JacketCollar_Back_end
+    100234: Jaw
+    100236: Lip_Bottom
+    100238: Lip_Bottom.L
+    100240: Lip_Bottom.L_end
+    100242: Lip_Bottom.R
+    100244: Lip_Bottom.R_end
+    100246: Lip_Bottom_end
+    100248: Lip_Corner.L
+    100250: Lip_Corner.L_end
+    100252: Lip_Corner.R
+    100254: Lip_Corner.R_end
+    100256: Lip_Top
+    100258: Lip_Top.L
+    100260: Lip_Top.L_end
+    100262: Lip_Top.R
+    100264: Lip_Top.R_end
+    100266: Lip_Top_end
+    100268: LowerArm.L
+    100270: LowerArm.R
+    100272: LowerArm_FK.L
+    100274: LowerArm_FK.L_end
+    100276: LowerArm_FK.R
+    100278: LowerArm_FK.R_end
+    100280: LowerEyelid.L
+    100282: LowerEyelid.L_end
+    100284: LowerEyelid.R
+    100286: LowerEyelid.R_end
+    100288: LowerLeg.L
+    100290: LowerLeg.R
+    100292: LowerLeg_FK.L
+    100294: LowerLeg_FK.L_end
+    100296: LowerLeg_FK.R
+    100298: LowerLeg_FK.R_end
+    100300: Neck
+    100302: Nostril.L
+    100304: Nostril.L_end
+    100306: Nostril.R
+    100308: Nostril.R_end
+    100310: Pelvis
+    100312: ShoulderGear.L
+    100314: ShoulderGear.L_end
+    100316: ShoulderGear.R
+    100318: ShoulderGear.R_end
+    100320: Spine
+    100322: Spine.1
+    100324: Spine.2
+    100326: Teeth.B
+    100328: Teeth.B_end
+    100330: Teeth.T
+    100332: Teeth.T_end
+    100334: TimeyWimey
+    100336: TimeyWimey_end
+    100338: Toe.L
+    100340: Toe.R
+    100342: Toe01.L
+    100344: Toe01.R
+    100346: Toe02.L
+    100348: Toe02.L_end
+    100350: Toe02.R
+    100352: Toe02.R_end
+    100354: Toe11.L
+    100356: Toe11.R
+    100358: Toe12.L
+    100360: Toe12.R
+    100362: Toe13.L
+    100364: Toe13.L_end
+    100366: Toe13.R
+    100368: Toe13.R_end
+    100370: Toe21.L
+    100372: Toe21.R
+    100374: Toe22.L
+    100376: Toe22.R
+    100378: Toe23.L
+    100380: Toe23.L_end
+    100382: Toe23.R
+    100384: Toe23.R_end
+    100386: Toe31.L
+    100388: Toe31.R
+    100390: Toe32.L
+    100392: Toe32.R
+    100394: Toe33.L
+    100396: Toe33.L_end
+    100398: Toe33.R
+    100400: Toe33.R_end
+    100402: Toe41.L
+    100404: Toe41.R
+    100406: Toe42.L
+    100408: Toe42.L_end
+    100410: Toe42.R
+    100412: Toe42.R_end
+    100414: TongueRoot
+    100416: TongueRoot_end
+    100418: //RootNode
+    100420: tracer_sporty.qc_skeleton
+    100422: tracer_sporty_armgear
+    100424: tracer_sporty_bodyarms
+    100426: tracer_sporty_bodyfeet
+    100428: tracer_sporty_earring
+    100430: tracer_sporty_gearback
+    100432: tracer_sporty_gearfront
+    100434: tracer_sporty_gloves
+    100436: tracer_sporty_harnesslower
+    100438: tracer_sporty_harnessupper
+    100440: tracer_sporty_jacket
+    100442: tracer_sporty_leggings
+    100444: tracer_sporty_reference
+    100446: tracer_sporty_shoes
+    100448: tracer_sporty_visor
+    100450: tracer_sporty_visor_facebones
+    100452: TracerVisor
+    100454: TracerVisor_end
+    100456: UpperArm.L
+    100458: UpperArm.R
+    100460: UpperArm_FK.L
+    100462: UpperArm_FK.L_end
+    100464: UpperArm_FK.R
+    100466: UpperArm_FK.R_end
+    100468: UpperEyelid.L
+    100470: UpperEyelid.L_end
+    100472: UpperEyelid.R
+    100474: UpperEyelid.R_end
+    100476: UpperLeg.L
+    100478: UpperLeg.R
+    100480: UpperLeg_FK.L
+    100482: UpperLeg_FK.L_end
+    100484: UpperLeg_FK.R
+    100486: UpperLeg_FK.R_end
+    100488: WibblyWobbly
+    100490: WibblyWobbly_end
+    400000: Breast.L
+    400002: Breast.L_end
+    400004: Breast.R
+    400006: Breast.R_end
+    400008: Butt.L
+    400010: Butt.L_end
+    400012: Butt.R
+    400014: Butt.R_end
+    400016: Cheek.L
+    400018: Cheek.L.1
+    400020: Cheek.L.1_end
+    400022: Cheek.L_end
+    400024: Cheek.R
+    400026: Cheek.R.1
+    400028: Cheek.R.1_end
+    400030: Cheek.R_end
+    400032: Clav.L
+    400034: Clav.R
+    400036: Clav_FK.L
+    400038: Clav_FK.L_end
+    400040: Clav_FK.R
+    400042: Clav_FK.R_end
+    400044: Eye.L
+    400046: Eye.L_end
+    400048: Eye.R
+    400050: Eye.R_end
+    400052: Eyebrow.L
+    400054: Eyebrow.L.1
+    400056: Eyebrow.L.1_end
+    400058: Eyebrow.L.2
+    400060: Eyebrow.L.2_end
+    400062: Eyebrow.L_end
+    400064: Eyebrow.R
+    400066: Eyebrow.R.1
+    400068: Eyebrow.R.1_end
+    400070: Eyebrow.R.2
+    400072: Eyebrow.R.2_end
+    400074: Eyebrow.R_end
+    400076: Finger01.L
+    400078: Finger01.R
+    400080: Finger02.L
+    400082: Finger02.R
+    400084: Finger03.L
+    400086: Finger03.L_end
+    400088: Finger03.R
+    400090: Finger03.R_end
+    400092: Finger11.L
+    400094: Finger11.R
+    400096: Finger12.L
+    400098: Finger12.R
+    400100: Finger13.L
+    400102: Finger13.L_end
+    400104: Finger13.R
+    400106: Finger13.R_end
+    400108: Finger21.L
+    400110: Finger21.R
+    400112: Finger22.L
+    400114: Finger22.R
+    400116: Finger23.L
+    400118: Finger23.L_end
+    400120: Finger23.R
+    400122: Finger23.R_end
+    400124: Finger31.L
+    400126: Finger31.R
+    400128: Finger32.L
+    400130: Finger32.R
+    400132: Finger33.L
+    400134: Finger33.L_end
+    400136: Finger33.R
+    400138: Finger33.R_end
+    400140: Finger41.L
+    400142: Finger41.R
+    400144: Finger42.L
+    400146: Finger42.R
+    400148: Finger43.L
+    400150: Finger43.L_end
+    400152: Finger43.R
+    400154: Finger43.R_end
+    400156: Foot.L
+    400158: Foot.R
+    400160: Hair.0
+    400162: Hair.01
+    400164: Hair.01_end
+    400166: Hair.1
+    400168: Hair.1_end
+    400170: Hair.2
+    400172: Hair.2_end
+    400174: Hair.3
+    400176: Hair.3_end
+    400178: Hair_Back
+    400180: Hair_Back_end
+    400182: Hair_Front_10
+    400184: Hair_Front_11
+    400186: Hair_Front_11_end
+    400188: Hair_Front_20
+    400190: Hair_Front_21
+    400192: Hair_Front_21_end
+    400194: Hair_Front_30
+    400196: Hair_Front_31
+    400198: Hair_Front_31_end
+    400200: Hair_Front_40
+    400202: Hair_Front_41
+    400204: Hair_Front_41_end
+    400206: Hair_Root
+    400208: Hand.L
+    400210: Hand.R
+    400212: Head
+    400214: Jacket.L
+    400216: Jacket.L_end
+    400218: Jacket.R
+    400220: Jacket.R_end
+    400222: JacketCollar.L
+    400224: JacketCollar.L_end
+    400226: JacketCollar.R
+    400228: JacketCollar.R_end
+    400230: JacketCollar_Back
+    400232: JacketCollar_Back_end
+    400234: Jaw
+    400236: Lip_Bottom
+    400238: Lip_Bottom.L
+    400240: Lip_Bottom.L_end
+    400242: Lip_Bottom.R
+    400244: Lip_Bottom.R_end
+    400246: Lip_Bottom_end
+    400248: Lip_Corner.L
+    400250: Lip_Corner.L_end
+    400252: Lip_Corner.R
+    400254: Lip_Corner.R_end
+    400256: Lip_Top
+    400258: Lip_Top.L
+    400260: Lip_Top.L_end
+    400262: Lip_Top.R
+    400264: Lip_Top.R_end
+    400266: Lip_Top_end
+    400268: LowerArm.L
+    400270: LowerArm.R
+    400272: LowerArm_FK.L
+    400274: LowerArm_FK.L_end
+    400276: LowerArm_FK.R
+    400278: LowerArm_FK.R_end
+    400280: LowerEyelid.L
+    400282: LowerEyelid.L_end
+    400284: LowerEyelid.R
+    400286: LowerEyelid.R_end
+    400288: LowerLeg.L
+    400290: LowerLeg.R
+    400292: LowerLeg_FK.L
+    400294: LowerLeg_FK.L_end
+    400296: LowerLeg_FK.R
+    400298: LowerLeg_FK.R_end
+    400300: Neck
+    400302: Nostril.L
+    400304: Nostril.L_end
+    400306: Nostril.R
+    400308: Nostril.R_end
+    400310: Pelvis
+    400312: ShoulderGear.L
+    400314: ShoulderGear.L_end
+    400316: ShoulderGear.R
+    400318: ShoulderGear.R_end
+    400320: Spine
+    400322: Spine.1
+    400324: Spine.2
+    400326: Teeth.B
+    400328: Teeth.B_end
+    400330: Teeth.T
+    400332: Teeth.T_end
+    400334: TimeyWimey
+    400336: TimeyWimey_end
+    400338: Toe.L
+    400340: Toe.R
+    400342: Toe01.L
+    400344: Toe01.R
+    400346: Toe02.L
+    400348: Toe02.L_end
+    400350: Toe02.R
+    400352: Toe02.R_end
+    400354: Toe11.L
+    400356: Toe11.R
+    400358: Toe12.L
+    400360: Toe12.R
+    400362: Toe13.L
+    400364: Toe13.L_end
+    400366: Toe13.R
+    400368: Toe13.R_end
+    400370: Toe21.L
+    400372: Toe21.R
+    400374: Toe22.L
+    400376: Toe22.R
+    400378: Toe23.L
+    400380: Toe23.L_end
+    400382: Toe23.R
+    400384: Toe23.R_end
+    400386: Toe31.L
+    400388: Toe31.R
+    400390: Toe32.L
+    400392: Toe32.R
+    400394: Toe33.L
+    400396: Toe33.L_end
+    400398: Toe33.R
+    400400: Toe33.R_end
+    400402: Toe41.L
+    400404: Toe41.R
+    400406: Toe42.L
+    400408: Toe42.L_end
+    400410: Toe42.R
+    400412: Toe42.R_end
+    400414: TongueRoot
+    400416: TongueRoot_end
+    400418: //RootNode
+    400420: tracer_sporty.qc_skeleton
+    400422: tracer_sporty_armgear
+    400424: tracer_sporty_bodyarms
+    400426: tracer_sporty_bodyfeet
+    400428: tracer_sporty_earring
+    400430: tracer_sporty_gearback
+    400432: tracer_sporty_gearfront
+    400434: tracer_sporty_gloves
+    400436: tracer_sporty_harnesslower
+    400438: tracer_sporty_harnessupper
+    400440: tracer_sporty_jacket
+    400442: tracer_sporty_leggings
+    400444: tracer_sporty_reference
+    400446: tracer_sporty_shoes
+    400448: tracer_sporty_visor
+    400450: tracer_sporty_visor_facebones
+    400452: TracerVisor
+    400454: TracerVisor_end
+    400456: UpperArm.L
+    400458: UpperArm.R
+    400460: UpperArm_FK.L
+    400462: UpperArm_FK.L_end
+    400464: UpperArm_FK.R
+    400466: UpperArm_FK.R_end
+    400468: UpperEyelid.L
+    400470: UpperEyelid.L_end
+    400472: UpperEyelid.R
+    400474: UpperEyelid.R_end
+    400476: UpperLeg.L
+    400478: UpperLeg.R
+    400480: UpperLeg_FK.L
+    400482: UpperLeg_FK.L_end
+    400484: UpperLeg_FK.R
+    400486: UpperLeg_FK.R_end
+    400488: WibblyWobbly
+    400490: WibblyWobbly_end
+    4300000: tracer_sporty_earring
+    4300002: tracer_sporty_visor_facebones
+    4300004: tracer_sporty_visor
+    4300006: tracer_sporty_gearfront
+    4300008: tracer_sporty_gearback
+    4300010: tracer_sporty_armgear
+    4300012: tracer_sporty_bodyfeet
+    4300014: tracer_sporty_shoes
+    4300016: tracer_sporty_harnesslower
+    4300018: tracer_sporty_leggings
+    4300020: tracer_sporty_bodyarms
+    4300022: tracer_sporty_gloves
+    4300024: tracer_sporty_harnessupper
+    4300026: tracer_sporty_jacket
+    4300028: tracer_sporty_reference
+    7400000: tracer_sporty.qc_skeleton-idle
+    7400002: tracer_sporty.qc_skeleton-seq1
+    7400004: tracer_sporty.qc_skeleton-tracerpose1
+    7400006: tracer_sporty.qc_skeleton-tracerpose2
+    7400008: tracer_sporty.qc_skeleton-tracerpose3
+    9500000: //RootNode
+    13700000: tracer_sporty_armgear
+    13700002: tracer_sporty_bodyarms
+    13700004: tracer_sporty_bodyfeet
+    13700006: tracer_sporty_earring
+    13700008: tracer_sporty_gearback
+    13700010: tracer_sporty_gearfront
+    13700012: tracer_sporty_gloves
+    13700014: tracer_sporty_harnesslower
+    13700016: tracer_sporty_harnessupper
+    13700018: tracer_sporty_jacket
+    13700020: tracer_sporty_leggings
+    13700022: tracer_sporty_reference
+    13700024: tracer_sporty_shoes
+    13700026: tracer_sporty_visor
+    13700028: tracer_sporty_visor_facebones
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tracer_sporty.qc_skeleton-idle
+      takeName: tracer_sporty.qc_skeleton|idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tracer_sporty.qc_skeleton
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L/Butt.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R/Butt.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L/Jacket.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R/Jacket.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L/Breast.L_end
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R/Breast.R_end
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L/Clav_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L/ShoulderGear.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L/Finger03.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L/Finger13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L/Finger23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L/Finger33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L/Finger43.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L/LowerArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L/UpperArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R/Clav_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R/ShoulderGear.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R/Finger03.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R/Finger13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R/Finger23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R/Finger33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R/Finger43.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R/LowerArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R/UpperArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L/JacketCollar.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R/JacketCollar.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back/JacketCollar_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1/Cheek.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1/Cheek.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L/Eye.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R/Eye.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1/Eyebrow.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2/Eyebrow.L.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1/Eyebrow.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2/Eyebrow.R.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01/Hair.01_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1/Hair.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2/Hair.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3/Hair.3_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back/Hair_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11/Hair_Front_11_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21/Hair_Front_21_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31/Hair_Front_31_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41/Hair_Front_41_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom/Lip_Bottom_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L/Lip_Bottom.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R/Lip_Bottom.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L/Lip_Corner.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R/Lip_Corner.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B/Teeth.B_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot/TongueRoot_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top/Lip_Top_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L/Lip_Top.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R/Lip_Top.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L/LowerEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R/LowerEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L/Nostril.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R/Nostril.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T/Teeth.T_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor/TracerVisor_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L/UpperEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R/UpperEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey/TimeyWimey_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly/WibblyWobbly_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L/Toe02.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L/Toe13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L/Toe23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L/Toe33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L/Toe42.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L/LowerLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L/UpperLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R/Toe02.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R/Toe13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R/Toe23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R/Toe33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R/Toe42.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R/LowerLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R/UpperLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty_armgear
+        weight: 1
+      - path: tracer_sporty_bodyarms
+        weight: 1
+      - path: tracer_sporty_bodyfeet
+        weight: 1
+      - path: tracer_sporty_earring
+        weight: 1
+      - path: tracer_sporty_gearback
+        weight: 1
+      - path: tracer_sporty_gearfront
+        weight: 1
+      - path: tracer_sporty_gloves
+        weight: 1
+      - path: tracer_sporty_harnesslower
+        weight: 1
+      - path: tracer_sporty_harnessupper
+        weight: 1
+      - path: tracer_sporty_jacket
+        weight: 1
+      - path: tracer_sporty_leggings
+        weight: 1
+      - path: tracer_sporty_reference
+        weight: 1
+      - path: tracer_sporty_shoes
+        weight: 1
+      - path: tracer_sporty_visor
+        weight: 1
+      - path: tracer_sporty_visor_facebones
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tracer_sporty.qc_skeleton-seq1
+      takeName: tracer_sporty.qc_skeleton|seq1
+      firstFrame: 0
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tracer_sporty.qc_skeleton
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L/Butt.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R/Butt.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L/Jacket.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R/Jacket.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L/Breast.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R/Breast.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L/Clav_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L/ShoulderGear.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L/Finger03.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L/Finger13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L/Finger23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L/Finger33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L/Finger43.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L/LowerArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L/UpperArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R/Clav_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R/ShoulderGear.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R/Finger03.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R/Finger13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R/Finger23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R/Finger33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R/Finger43.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R/LowerArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R/UpperArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L/JacketCollar.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R/JacketCollar.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back/JacketCollar_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1/Cheek.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1/Cheek.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L/Eye.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R/Eye.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1/Eyebrow.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2/Eyebrow.L.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1/Eyebrow.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2/Eyebrow.R.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01/Hair.01_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1/Hair.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2/Hair.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3/Hair.3_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back/Hair_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11/Hair_Front_11_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21/Hair_Front_21_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31/Hair_Front_31_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41/Hair_Front_41_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom/Lip_Bottom_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L/Lip_Bottom.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R/Lip_Bottom.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L/Lip_Corner.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R/Lip_Corner.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B/Teeth.B_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot/TongueRoot_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top/Lip_Top_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L/Lip_Top.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R/Lip_Top.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L/LowerEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R/LowerEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L/Nostril.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R/Nostril.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T/Teeth.T_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor/TracerVisor_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L/UpperEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R/UpperEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey/TimeyWimey_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly/WibblyWobbly_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L/Toe02.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L/Toe13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L/Toe23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L/Toe33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L/Toe42.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L/LowerLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L/UpperLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R/Toe02.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R/Toe13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R/Toe23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R/Toe33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R/Toe42.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R/LowerLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R/UpperLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty_armgear
+        weight: 1
+      - path: tracer_sporty_bodyarms
+        weight: 1
+      - path: tracer_sporty_bodyfeet
+        weight: 1
+      - path: tracer_sporty_earring
+        weight: 1
+      - path: tracer_sporty_gearback
+        weight: 1
+      - path: tracer_sporty_gearfront
+        weight: 1
+      - path: tracer_sporty_gloves
+        weight: 1
+      - path: tracer_sporty_harnesslower
+        weight: 1
+      - path: tracer_sporty_harnessupper
+        weight: 1
+      - path: tracer_sporty_jacket
+        weight: 1
+      - path: tracer_sporty_leggings
+        weight: 1
+      - path: tracer_sporty_reference
+        weight: 1
+      - path: tracer_sporty_shoes
+        weight: 1
+      - path: tracer_sporty_visor
+        weight: 1
+      - path: tracer_sporty_visor_facebones
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tracer_sporty.qc_skeleton-tracerpose1
+      takeName: tracer_sporty.qc_skeleton|tracerpose1
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tracer_sporty.qc_skeleton
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L/Butt.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R/Butt.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L/Jacket.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R/Jacket.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L/Breast.L_end
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R/Breast.R_end
+        weight: 0
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L/Clav_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L/ShoulderGear.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L/Finger03.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L/Finger13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L/Finger23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L/Finger33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L/Finger43.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L/LowerArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L/UpperArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R/Clav_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R/ShoulderGear.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R/Finger03.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R/Finger13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R/Finger23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R/Finger33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R/Finger43.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R/LowerArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R/UpperArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L/JacketCollar.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R/JacketCollar.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back/JacketCollar_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1/Cheek.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1/Cheek.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L/Eye.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R/Eye.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1/Eyebrow.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2/Eyebrow.L.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1/Eyebrow.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2/Eyebrow.R.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01/Hair.01_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1/Hair.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2/Hair.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3/Hair.3_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back/Hair_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11/Hair_Front_11_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21/Hair_Front_21_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31/Hair_Front_31_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41/Hair_Front_41_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom/Lip_Bottom_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L/Lip_Bottom.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R/Lip_Bottom.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L/Lip_Corner.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R/Lip_Corner.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B/Teeth.B_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot/TongueRoot_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top/Lip_Top_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L/Lip_Top.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R/Lip_Top.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L/LowerEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R/LowerEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L/Nostril.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R/Nostril.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T/Teeth.T_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor/TracerVisor_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L/UpperEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R/UpperEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey/TimeyWimey_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly/WibblyWobbly_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L/Toe02.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L/Toe13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L/Toe23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L/Toe33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L/Toe42.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L/LowerLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L/UpperLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R/Toe02.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R/Toe13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R/Toe23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R/Toe33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R/Toe42.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R/LowerLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R/UpperLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty_armgear
+        weight: 1
+      - path: tracer_sporty_bodyarms
+        weight: 1
+      - path: tracer_sporty_bodyfeet
+        weight: 1
+      - path: tracer_sporty_earring
+        weight: 1
+      - path: tracer_sporty_gearback
+        weight: 1
+      - path: tracer_sporty_gearfront
+        weight: 1
+      - path: tracer_sporty_gloves
+        weight: 1
+      - path: tracer_sporty_harnesslower
+        weight: 1
+      - path: tracer_sporty_harnessupper
+        weight: 1
+      - path: tracer_sporty_jacket
+        weight: 1
+      - path: tracer_sporty_leggings
+        weight: 1
+      - path: tracer_sporty_reference
+        weight: 1
+      - path: tracer_sporty_shoes
+        weight: 1
+      - path: tracer_sporty_visor
+        weight: 1
+      - path: tracer_sporty_visor_facebones
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tracer_sporty.qc_skeleton-tracerpose2
+      takeName: tracer_sporty.qc_skeleton|tracerpose2
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tracer_sporty.qc_skeleton
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L/Butt.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R/Butt.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L/Jacket.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R/Jacket.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L/Breast.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R/Breast.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L/Clav_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L/ShoulderGear.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L/Finger03.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L/Finger13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L/Finger23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L/Finger33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L/Finger43.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L/LowerArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L/UpperArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R/Clav_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R/ShoulderGear.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R/Finger03.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R/Finger13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R/Finger23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R/Finger33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R/Finger43.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R/LowerArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R/UpperArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L/JacketCollar.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R/JacketCollar.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back/JacketCollar_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1/Cheek.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1/Cheek.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L/Eye.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R/Eye.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1/Eyebrow.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2/Eyebrow.L.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1/Eyebrow.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2/Eyebrow.R.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01/Hair.01_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1/Hair.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2/Hair.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3/Hair.3_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back/Hair_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11/Hair_Front_11_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21/Hair_Front_21_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31/Hair_Front_31_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41/Hair_Front_41_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom/Lip_Bottom_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L/Lip_Bottom.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R/Lip_Bottom.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L/Lip_Corner.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R/Lip_Corner.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B/Teeth.B_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot/TongueRoot_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top/Lip_Top_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L/Lip_Top.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R/Lip_Top.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L/LowerEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R/LowerEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L/Nostril.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R/Nostril.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T/Teeth.T_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor/TracerVisor_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L/UpperEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R/UpperEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey/TimeyWimey_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly/WibblyWobbly_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L/Toe02.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L/Toe13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L/Toe23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L/Toe33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L/Toe42.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L/LowerLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L/UpperLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R/Toe02.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R/Toe13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R/Toe23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R/Toe33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R/Toe42.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R/LowerLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R/UpperLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty_armgear
+        weight: 1
+      - path: tracer_sporty_bodyarms
+        weight: 1
+      - path: tracer_sporty_bodyfeet
+        weight: 1
+      - path: tracer_sporty_earring
+        weight: 1
+      - path: tracer_sporty_gearback
+        weight: 1
+      - path: tracer_sporty_gearfront
+        weight: 1
+      - path: tracer_sporty_gloves
+        weight: 1
+      - path: tracer_sporty_harnesslower
+        weight: 1
+      - path: tracer_sporty_harnessupper
+        weight: 1
+      - path: tracer_sporty_jacket
+        weight: 1
+      - path: tracer_sporty_leggings
+        weight: 1
+      - path: tracer_sporty_reference
+        weight: 1
+      - path: tracer_sporty_shoes
+        weight: 1
+      - path: tracer_sporty_visor
+        weight: 1
+      - path: tracer_sporty_visor_facebones
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tracer_sporty.qc_skeleton-tracerpose3
+      takeName: tracer_sporty.qc_skeleton|tracerpose3
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tracer_sporty.qc_skeleton
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.L/Butt.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Butt.R/Butt.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.L/Jacket.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Jacket.R/Jacket.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.L/Breast.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Breast.R/Breast.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/Clav_FK.L/Clav_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/ShoulderGear.L/ShoulderGear.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger01.L/Finger02.L/Finger03.L/Finger03.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger11.L/Finger12.L/Finger13.L/Finger13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger21.L/Finger22.L/Finger23.L/Finger23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger31.L/Finger32.L/Finger33.L/Finger33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/Hand.L/Finger41.L/Finger42.L/Finger43.L/Finger43.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/LowerArm.L/LowerArm_FK.L/LowerArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.L/UpperArm.L/UpperArm_FK.L/UpperArm_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/Clav_FK.R/Clav_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/ShoulderGear.R/ShoulderGear.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger01.R/Finger02.R/Finger03.R/Finger03.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger11.R/Finger12.R/Finger13.R/Finger13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger21.R/Finger22.R/Finger23.R/Finger23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger31.R/Finger32.R/Finger33.R/Finger33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/Hand.R/Finger41.R/Finger42.R/Finger43.R/Finger43.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/LowerArm.R/LowerArm_FK.R/LowerArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Clav.R/UpperArm.R/UpperArm_FK.R/UpperArm_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.L/JacketCollar.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar.R/JacketCollar.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/JacketCollar_Back/JacketCollar_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.L.1/Cheek.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Cheek.R.1/Cheek.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.L/Eye.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eye.R/Eye.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.1/Eyebrow.L.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.L.2/Eyebrow.L.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.1/Eyebrow.R.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Eyebrow.R.2/Eyebrow.R.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.0/Hair.01/Hair.01_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.1/Hair.1_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.2/Hair.2_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair.3/Hair.3_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Back/Hair_Back_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_10/Hair_Front_11/Hair_Front_11_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_20/Hair_Front_21/Hair_Front_21_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_30/Hair_Front_31/Hair_Front_31_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Hair_Root/Hair_Front_40/Hair_Front_41/Hair_Front_41_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom/Lip_Bottom_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.L/Lip_Bottom.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Bottom.R/Lip_Bottom.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.L/Lip_Corner.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Lip_Corner.R/Lip_Corner.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/Teeth.B/Teeth.B_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Jaw/TongueRoot/TongueRoot_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top/Lip_Top_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.L/Lip_Top.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Lip_Top.R/Lip_Top.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.L/LowerEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/LowerEyelid.R/LowerEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.L/Nostril.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Nostril.R/Nostril.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/Teeth.T/Teeth.T_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/TracerVisor/TracerVisor_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.L/UpperEyelid.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/Neck/Head/UpperEyelid.R/UpperEyelid.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/TimeyWimey/TimeyWimey_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/Spine/Spine.1/Spine.2/WibblyWobbly/WibblyWobbly_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe01.L/Toe02.L/Toe02.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe11.L/Toe12.L/Toe13.L/Toe13.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe21.L/Toe22.L/Toe23.L/Toe23.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe31.L/Toe32.L/Toe33.L/Toe33.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe41.L/Toe42.L/Toe42.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/LowerLeg.L/LowerLeg_FK.L/LowerLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.L/UpperLeg_FK.L/UpperLeg_FK.L_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe01.R/Toe02.R/Toe02.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe11.R/Toe12.R/Toe13.R/Toe13.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe21.R/Toe22.R/Toe23.R/Toe23.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe31.R/Toe32.R/Toe33.R/Toe33.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe41.R/Toe42.R/Toe42.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/LowerLeg.R/LowerLeg_FK.R/LowerLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R
+        weight: 1
+      - path: tracer_sporty.qc_skeleton/Pelvis/UpperLeg.R/UpperLeg_FK.R/UpperLeg_FK.R_end
+        weight: 1
+      - path: tracer_sporty_armgear
+        weight: 1
+      - path: tracer_sporty_bodyarms
+        weight: 1
+      - path: tracer_sporty_bodyfeet
+        weight: 1
+      - path: tracer_sporty_earring
+        weight: 1
+      - path: tracer_sporty_gearback
+        weight: 1
+      - path: tracer_sporty_gearfront
+        weight: 1
+      - path: tracer_sporty_gloves
+        weight: 1
+      - path: tracer_sporty_harnesslower
+        weight: 1
+      - path: tracer_sporty_harnessupper
+        weight: 1
+      - path: tracer_sporty_jacket
+        weight: 1
+      - path: tracer_sporty_leggings
+        weight: 1
+      - path: tracer_sporty_reference
+        weight: 1
+      - path: tracer_sporty_shoes
+        weight: 1
+      - path: tracer_sporty_visor
+        weight: 1
+      - path: tracer_sporty_visor_facebones
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

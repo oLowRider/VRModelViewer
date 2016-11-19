@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 329b550caae44b84faefb687efa6b526
+timeCreated: 1462610169
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: kf2_deagle.qc_skeleton
+    100004: kf2_deagle_deaglekf2
+    100006: kf2_deagle_deaglekf2mag
+    100008: RW_Bullets1
+    100010: RW_Bullets1_end
+    100012: RW_Bullets2
+    100014: RW_Bullets2_end
+    100016: RW_Bullets3
+    100018: RW_Bullets3_end
+    100020: RW_Bullets4
+    100022: RW_Bullets4_end
+    100024: RW_Hammer
+    100026: RW_Hammer_end
+    100028: RW_Mag_Release
+    100030: RW_Mag_Release_end
+    100032: RW_Magazine1
+    100034: RW_Slide
+    100036: RW_Slide_end
+    100038: RW_SlideRelease
+    100040: RW_SlideRelease_end
+    100042: RW_Trigger
+    100044: RW_Trigger_end
+    100046: RW_Weapon
+    400000: //RootNode
+    400002: kf2_deagle.qc_skeleton
+    400004: kf2_deagle_deaglekf2
+    400006: kf2_deagle_deaglekf2mag
+    400008: RW_Bullets1
+    400010: RW_Bullets1_end
+    400012: RW_Bullets2
+    400014: RW_Bullets2_end
+    400016: RW_Bullets3
+    400018: RW_Bullets3_end
+    400020: RW_Bullets4
+    400022: RW_Bullets4_end
+    400024: RW_Hammer
+    400026: RW_Hammer_end
+    400028: RW_Mag_Release
+    400030: RW_Mag_Release_end
+    400032: RW_Magazine1
+    400034: RW_Slide
+    400036: RW_Slide_end
+    400038: RW_SlideRelease
+    400040: RW_SlideRelease_end
+    400042: RW_Trigger
+    400044: RW_Trigger_end
+    400046: RW_Weapon
+    4300000: kf2_deagle_deaglekf2
+    4300002: kf2_deagle_deaglekf2mag
+    7400000: kf2_deagle.qc_skeleton|idle
+    9500000: //RootNode
+    13700000: kf2_deagle_deaglekf2
+    13700002: kf2_deagle_deaglekf2mag
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

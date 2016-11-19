@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 29a0d048ed436d9438fab62d9f25c7ed
+timeCreated: 1460219882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 24_mesh102_0_0_0_reference
+    100002: 24_mesh108_0_reference
+    100004: 24_mesh125_0_reference
+    100006: 24_mesh139_0_reference
+    100008: 24_mesh140_0_reference
+    100010: 24_mesh142_0_reference
+    100012: 24_mesh147_0_reference
+    100014: 24_mesh14_0_reference
+    100016: 24_mesh163_0_reference
+    100018: 24_mesh163_0_reference_skeleton
+    100020: 24_mesh19_0_reference
+    100022: 24_mesh20_0_reference
+    100024: 24_mesh23_0_reference
+    100026: 24_mesh36_0_reference
+    100028: 24_mesh40_0_0_0_reference
+    100030: 24_mesh44_0_0_0_reference
+    100032: 24_mesh50_0_reference
+    100034: 24_mesh57_0_reference
+    100036: 24_mesh72_0_reference
+    100038: 24_mesh76_0_reference
+    100040: 24_mesh77_0_reference
+    100042: 25_mesh86_0_reference
+    100044: //RootNode
+    100046: lamp_reference
+    100048: roof_reference
+    100050: static_prop
+    100052: static_prop_end
+    400000: 24_mesh102_0_0_0_reference
+    400002: 24_mesh108_0_reference
+    400004: 24_mesh125_0_reference
+    400006: 24_mesh139_0_reference
+    400008: 24_mesh140_0_reference
+    400010: 24_mesh142_0_reference
+    400012: 24_mesh147_0_reference
+    400014: 24_mesh14_0_reference
+    400016: 24_mesh163_0_reference
+    400018: 24_mesh163_0_reference_skeleton
+    400020: 24_mesh19_0_reference
+    400022: 24_mesh20_0_reference
+    400024: 24_mesh23_0_reference
+    400026: 24_mesh36_0_reference
+    400028: 24_mesh40_0_0_0_reference
+    400030: 24_mesh44_0_0_0_reference
+    400032: 24_mesh50_0_reference
+    400034: 24_mesh57_0_reference
+    400036: 24_mesh72_0_reference
+    400038: 24_mesh76_0_reference
+    400040: 24_mesh77_0_reference
+    400042: 25_mesh86_0_reference
+    400044: //RootNode
+    400046: lamp_reference
+    400048: roof_reference
+    400050: static_prop
+    400052: static_prop_end
+    4300000: 24_mesh14_0_reference
+    4300002: roof_reference
+    4300004: lamp_reference
+    4300006: 25_mesh86_0_reference
+    4300008: 24_mesh147_0_reference
+    4300010: 24_mesh142_0_reference
+    4300012: 24_mesh140_0_reference
+    4300014: 24_mesh139_0_reference
+    4300016: 24_mesh125_0_reference
+    4300018: 24_mesh108_0_reference
+    4300020: 24_mesh102_0_0_0_reference
+    4300022: 24_mesh77_0_reference
+    4300024: 24_mesh76_0_reference
+    4300026: 24_mesh72_0_reference
+    4300028: 24_mesh57_0_reference
+    4300030: 24_mesh50_0_reference
+    4300032: 24_mesh44_0_0_0_reference
+    4300034: 24_mesh40_0_0_0_reference
+    4300036: 24_mesh36_0_reference
+    4300038: 24_mesh23_0_reference
+    4300040: 24_mesh20_0_reference
+    4300042: 24_mesh19_0_reference
+    4300044: 24_mesh163_0_reference
+    9500000: //RootNode
+    13700000: 24_mesh102_0_0_0_reference
+    13700002: 24_mesh108_0_reference
+    13700004: 24_mesh125_0_reference
+    13700006: 24_mesh139_0_reference
+    13700008: 24_mesh140_0_reference
+    13700010: 24_mesh142_0_reference
+    13700012: 24_mesh147_0_reference
+    13700014: 24_mesh14_0_reference
+    13700016: 24_mesh163_0_reference
+    13700018: 24_mesh19_0_reference
+    13700020: 24_mesh20_0_reference
+    13700022: 24_mesh23_0_reference
+    13700024: 24_mesh36_0_reference
+    13700026: 24_mesh40_0_0_0_reference
+    13700028: 24_mesh44_0_0_0_reference
+    13700030: 24_mesh50_0_reference
+    13700032: 24_mesh57_0_reference
+    13700034: 24_mesh72_0_reference
+    13700036: 24_mesh76_0_reference
+    13700038: 24_mesh77_0_reference
+    13700040: 25_mesh86_0_reference
+    13700042: lamp_reference
+    13700044: roof_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
